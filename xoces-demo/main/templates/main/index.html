@@ -1,0 +1,95 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Videoken</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- jquery and lodash are loaded below for convenience only (to fetch example data sets).
+      You do NOT need to load them if you're using the UMD, already-bundled version of Xoces
+  -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+
+</head>
+<body>
+  <div id="root" style="height: 100%"></div>
+
+
+<h1>Videoken Demo</h1>
+
+<div id="xocesContainer"></div>
+<div id="xocesChordWidgetContainer" style="height:800px;"></div>
+<div id="xocesTreeWidgetContainer"></div>
+
+<!-- or load the latest  -->
+<script src="https://unpkg.com/xoces/umd/xoces-umd.js"></script>
+
+<!-- Load the complete bundle (~800K) in webpack-dev-server memory when in development -->
+<!-- <script src="xoces-umd.js"></script> -->
+
+<!-- You can also load the complete bundle (~800K) from the built /umd folder  -->
+<!-- <script src="umd/xoces-umd.js"></script> -->
+<!-- XocesWidget: dummy data -->
+<!-- <script src="examples/example1.js"></script>> -->
+
+<!-- XocesWidget: SUTDoces  -->
+<!-- <script src="examples/example2.js"></script> --> 
+
+<!-- XocesWidget: MIToces -->
+<!-- <script src="examples/example3.js"></script> -->
+
+<!-- Chord widget only: dummy data  -->
+<!-- <script src="{% static 'js/example2.js' %}"></script> -->
+
+<!-- Tree widget only: dummy data  -->
+<!--<script src="examples/example5.js"></script> -->
+
+<script>
+	// =====
+// instantiate a new Xoces widget
+// ========
+var jsonObject = JSON.parse('{{ data | escapejs }}');
+console.log(jsonObject);
+
+var course = jsonObject.course;
+var topic = jsonObject.topic;
+var outcomes = jsonObject.outcome;
+
+var cw = xoces.widgets.XocesWidget.new({
+  hierarchy: jsonObject.hierarchy,
+  data: {
+    entities: course.concat(topic, outcomes),
+    relationships: jsonObject.relationships
+  },
+  entityLabelKey: 'name',
+  nodeLabelKey: 'name',
+  relationship: {
+    parentType: 'belongs_to',
+    sourceRef: 'sourceId',
+    targetRef: 'targetId',
+  },
+  width: '100%',
+  height: 600,
+  colorScheme: 'dark',
+  limitToSameParentInTree: false,
+  onMouseOverDirection: 'both',
+  onMouseOverFinish: function(data) {
+  },
+  onMouseOutFinish: function() {
+  },
+  onClickFinish: function(edata) {
+  }
+});
+// console.log('chord widget', cw);
+
+// render it into the specified container
+cw.render({
+  container: 'xocesChordWidgetContainer'
+});
+
+</script>
+
+</body>
+</html>

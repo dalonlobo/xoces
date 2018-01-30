@@ -1,0 +1,4111 @@
+[
+  {
+    "endpage": 6, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 1, 
+    "topicname": "Contents"
+  }, 
+  {
+    "endpage": 7, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 7, 
+    "topicname": "Website"
+  }, 
+  {
+    "endpage": 10, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 8, 
+    "topicname": "Acknowledgments"
+  }, 
+  {
+    "endpage": 14, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 11, 
+    "topicname": "Notation"
+  }, 
+  {
+    "endpage": 42, 
+    "keywordlist": [
+      "yy yy yy yy h 2h", 
+      "Encoder", 
+      "Factors of variation", 
+      "Weights,", 
+      "Neuroscience", 
+      "Sigmoid, Sigmoid belief network", 
+      "conditions gence", 
+      "yy yy x 2x", 
+      "x 2x", 
+      "Base network h 2h", 
+      "Arti\ufb01cial intelligence", 
+      "Deep Boltzmann machine,", 
+      "h 1h", 
+      "Recognition Challenge Challenge", 
+      "Machine learning", 
+      "Representation learning", 
+      "CHAPTER 7. REGULARIZATION FOR DEEP LEARNING smaller. yy h 1h", 
+      "Multilayer perceptron", 
+      "Convolution, Convolutional network", 
+      "Cyc", 
+      "yy yy h 1h", 
+      "Deep Blue", 
+      "h 2h", 
+      "Chess", 
+      "Parallel distributed processing", 
+      "descent descent", 
+      "Naive Bayes", 
+      "yy yy h 2h", 
+      "Ensemble of Sub-Networks yy yy h 2h", 
+      "Early stopping, EBM, Echo state network,", 
+      "Recti\ufb01ed linear unit, Recurrent network", 
+      "Multi-task learning, Multilayer perception", 
+      "SML, Softmax, Softplus, Spam detection", 
+      "Dataset augmentation, DBM, DCGAN, Decision tree, Decoder", 
+      "chine bound Challenge", 
+      "Visible layer", 
+      "Connectionism,", 
+      "Neural network", 
+      "x 1x", 
+      "Hidden layer,"
+    ], 
+    "level": 1, 
+    "startpage": 15, 
+    "topicname": "Chapter 1 - Introduction"
+  },
+  {
+    "endpage": 178, 
+    "keywordlist": [
+      "Eigendecomposition", 
+      "Jacobian matrix, Joint probability", 
+      "Backprop,", 
+      "GPU, Gradient", 
+      "Determinant, xii Diagonal matrix", 
+      "Linear combination", 
+      "Eigenvalue", 
+      "Mixture distribution", 
+      "Cross-entropy,", 
+      "Multinomial distribution", 
+      "Bias, Bias parameter", 
+      "Convolutional neural network, Coordinate descent, Correlation", 
+      "bound mension xi xii", 
+      "Lipschitz continuous", 
+      "xi xii", 
+      "Manifold hypothesis", 
+      "Regularization, Regularizer", 
+      "Almost sure convergence", 
+      "Uniform distribution", 
+      "work", 
+      "Unit norm", 
+      "Supervised \ufb01ne-tuning, Supervised learning", 
+      "Machine translation", 
+      "Standard error", 
+      "Feature", 
+      "Nearest neighbor regression", 
+      "Contrastive divergence, Convex optimization", 
+      "Frequentist probability", 
+      "Line search,", 
+      "Score matching, Second derivative", 
+      "Zero-data learning, tives bound mension xi xii", 
+      "Standard error of the mean, Statistic", 
+      "Probability mass function estimation", 
+      "Dataset", 
+      "Regression", 
+      "Tensor, Test set", 
+      "Trace operator", 
+      "Missing inputs", 
+      "Random variable", 
+      "Dot product,", 
+      "Expectation", 
+      "DAE, Data generating distribution, Data generating process", 
+      "Scalar, xi xii", 
+      "Eigenvector", 
+      "Partition function, PCA, PCD, Perceptron, Persistent contrastive divergence, Perturbation analysis, Point estimator", 
+      "Transcription", 
+      "Marginal probability", 
+      "Frobenius norm", 
+      "Inequality constraint", 
+      "Central limit theorem", 
+      "Probability density function", 
+      "Matrix inverse", 
+      "Measure theory", 
+      "xii", 
+      "Bayesian network, Bayesian probability", 
+      "ssRBM, mann machine Standard deviation", 
+      "Training error", 
+      "xiv", 
+      "E\ufb00ective capacity", 
+      "MAP approximation,", 
+      "Gaussian distribution, Gaussian kernel", 
+      "Bayes\u2019 rule", 
+      "Evidence lower bound, Example", 
+      "Main diagonal", 
+      "Exponential distribution", 
+      "Prior probability distribution", 
+      "Adversarial training, A\ufb03ne", 
+      "Representational capacity", 
+      "Probability distribution", 
+      "Objective function", 
+      "Triangle inequality", 
+      "Measure zero", 
+      "Cost function, Covariance, Covariance matrix", 
+      "Hill climbing", 
+      "Support vector machine", 
+      "Belief network, Bernoulli distribution", 
+      "Matrix product", 
+      "Empirical distribution", 
+      "Manifold", 
+      "Probability mass function", 
+      "Bayesian statistics", 
+      "Boltzmann machine, BPTT, Broadcasting", 
+      "Chain rule of probability", 
+      "Di\ufb00erential entropy, Dirac delta function", 
+      "Directed graphical model, Directional derivative", 
+      "Second derivative test", 
+      "tion", 
+      "Speech recognition, Sphering, Spike and slab restricted Boltzmann ma- SPN, Square matrix", 
+      "Generalization", 
+      "Cross-validation", 
+      "Maximum likelihood", 
+      "Pooling, Positive de\ufb01nite", 
+      "Sample mean", 
+      "Arti\ufb01cial neural network, ASR, Asymptotically unbiased", 
+      "Generalized Lagrange function, ized Lagrangian Generalized Lagrangian", 
+      "Curse of dimensionality", 
+      "Linear dependence", 
+      "Batch normalization, Bayes error", 
+      "Partial derivative", 
+      "Unit vector", 
+      "Nat", 
+      "Negative de\ufb01nite", 
+      "Error function, ESN, Euclidean norm", 
+      "VAE, Vapnik-Chervonenkis dimension", 
+      "Mean squared error", 
+      "Isotropic", 
+      "Lipschitz constant", 
+      "model", 
+      "Equality constraint", 
+      "Kernel trick", 
+      "k-means, k-nearest neighbors, Karush-Kuhn-Tucker conditions, Karush\u2013Kuhn\u2013Tucker", 
+      "Structured output, Structured probabilistic model, Sum rule of probability", 
+      "Laplace distribution, Latent variable", 
+      "Density estimation", 
+      "Orthogonality", 
+      "Optimization, Orthodox statistics, Orthogonal matching pursuit, Orthogonal matrix", 
+      "Max norm", 
+      "Conditional computation, Conditional independence, Conditional probability", 
+      "Non-parametric model", 
+      "Singular value,", 
+      "Manifold learning", 
+      "Loss function, Lp norm", 
+      "Classi\ufb01cation", 
+      "Template matching", 
+      "AIS, Almost everywhere", 
+      "Learning rate", 
+      "Markov network, Markov random \ufb01eld, Matrix, xi xii", 
+      "Self-information", 
+      "xiii", 
+      "Newton\u2019s method, NLM, NLP, No free lunch theorem", 
+      "Multinoulli distribution", 
+      "Derivative, Design matrix", 
+      "Unbiased", 
+      "Statistical learning theory", 
+      "Active constraint", 
+      "Frequentist statistics", 
+      "Parameter initialization, Parameter sharing, Parameter tying, Parametric model", 
+      "Hyperparameters, Hypothesis space, i.i.d. assumptions, Identity matrix"
+    ], 
+    "level": 1, 
+    "startpage": 43, 
+    "topicname": "Part I - Applied Math and Machine Learning Basics"
+  }, 
+  {
+    "endpage": 66, 
+    "keywordlist": [
+      "Eigendecomposition", 
+      "Determinant, xii Diagonal matrix", 
+      "Linear combination", 
+      "Eigenvalue", 
+      "bound mension xi xii", 
+      "xi xii", 
+      "Unit norm", 
+      "Zero-data learning, tives bound mension xi xii", 
+      "Trace operator", 
+      "Dot product,", 
+      "Scalar, xi xii", 
+      "Eigenvector", 
+      "Frobenius norm", 
+      "Matrix inverse", 
+      "xii", 
+      "xiv", 
+      "Main diagonal", 
+      "Triangle inequality", 
+      "Matrix product", 
+      "Boltzmann machine, BPTT, Broadcasting", 
+      "Speech recognition, Sphering, Spike and slab restricted Boltzmann ma- SPN, Square matrix", 
+      "Linear dependence", 
+      "Unit vector", 
+      "Error function, ESN, Euclidean norm", 
+      "Orthogonality", 
+      "Optimization, Orthodox statistics, Orthogonal matching pursuit, Orthogonal matrix", 
+      "Max norm", 
+      "Singular value,", 
+      "Loss function, Lp norm", 
+      "Markov network, Markov random \ufb01eld, Matrix, xi xii", 
+      "Hyperparameters, Hypothesis space, i.i.d. assumptions, Identity matrix",
+      "Scalars, Vectors, Matrices and Tensors",
+      "bound mension xi xii", 
+      "xi xii", 
+      "Zero-data learning, tives bound mension xi xii", 
+      "Scalar, xi xii", 
+      "Main diagonal", 
+      "Markov network, Markov random \ufb01eld, Matrix, xi xii",
+      "Dot product,", 
+      "xii", 
+      "Matrix product", 
+      "Boltzmann machine, BPTT, Broadcasting",
+      "Multiplying Matrices and Vectors"
+    ], 
+    "level": 2, 
+    "startpage": 45, 
+    "topicname": "Chapter 2 - Linear Algebra"
+  },
+  {
+    "endpage": 50, 
+    "keywordlist": [
+      "Matrix inverse", 
+      "Hyperparameters, Hypothesis space, i.i.d. assumptions, Identity matrix"
+    ], 
+    "level": 3, 
+    "startpage": 50, 
+    "topicname": "2.3 Identity and Inverse Matrices"
+  }, 
+  {
+    "endpage": 52, 
+    "keywordlist": [
+      "Linear combination", 
+      "Speech recognition, Sphering, Spike and slab restricted Boltzmann ma- SPN, Square matrix", 
+      "Linear dependence"
+    ], 
+    "level": 3, 
+    "startpage": 51, 
+    "topicname": "2.4 Linear Dependence and Span"
+  }, 
+  {
+    "endpage": 53, 
+    "keywordlist": [
+      "xiv", 
+      "Triangle inequality", 
+      "Error function, ESN, Euclidean norm", 
+      "Loss function, Lp norm"
+    ], 
+    "level": 3, 
+    "startpage": 53, 
+    "topicname": "2.5 Norms"
+  }, 
+  {
+    "endpage": 55, 
+    "keywordlist": [
+      "Determinant, xii Diagonal matrix", 
+      "Unit norm", 
+      "Unit vector", 
+      "Orthogonality", 
+      "Max norm"
+    ], 
+    "level": 3, 
+    "startpage": 54, 
+    "topicname": "2.6 Special Kinds of Matrices and Vectors"
+  }, 
+  {
+    "endpage": 57, 
+    "keywordlist": [
+      "Eigendecomposition", 
+      "Eigenvalue", 
+      "Eigenvector", 
+      "Optimization, Orthodox statistics, Orthogonal matching pursuit, Orthogonal matrix"
+    ], 
+    "level": 3, 
+    "startpage": 56, 
+    "topicname": "2.7 Eigendecomposition"
+  }, 
+  {
+    "endpage": 58, 
+    "keywordlist": [
+      "Singular value,"
+    ], 
+    "level": 3, 
+    "startpage": 58, 
+    "topicname": "2.8 Singular Value Decomposition"
+  }, 
+  {
+    "endpage": 59, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 59, 
+    "topicname": "2.9 The Moore-Penrose Pseudoinverse"
+  }, 
+  {
+    "endpage": 60, 
+    "keywordlist": [
+      "Trace operator", 
+      "Frobenius norm"
+    ], 
+    "level": 3, 
+    "startpage": 60, 
+    "topicname": "2.10 The Trace Operator"
+  }, 
+  {
+    "endpage": 61, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 61, 
+    "topicname": "2.11 The Determinant"
+  }, 
+  {
+    "endpage": 66, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 62, 
+    "topicname": "2.12 Example: Principal Components Analysis"
+  }, 
+  {
+    "endpage": 93, 
+    "keywordlist": [
+      "Jacobian matrix, Joint probability", 
+      "Mixture distribution", 
+      "Cross-entropy,", 
+      "Multinomial distribution", 
+      "Convolutional neural network, Coordinate descent, Correlation", 
+      "Uniform distribution", 
+      "Frequentist probability", 
+      "Random variable", 
+      "Expectation", 
+      "Marginal probability", 
+      "Central limit theorem", 
+      "Probability density function", 
+      "Measure theory", 
+      "Bayesian network, Bayesian probability", 
+      "ssRBM, mann machine Standard deviation", 
+      "Bayes\u2019 rule", 
+      "Exponential distribution", 
+      "Probability distribution", 
+      "Measure zero", 
+      "Cost function, Covariance, Covariance matrix", 
+      "Belief network, Bernoulli distribution", 
+      "Empirical distribution", 
+      "Probability mass function", 
+      "Chain rule of probability", 
+      "Di\ufb00erential entropy, Dirac delta function", 
+      "tion", 
+      "Nat", 
+      "Isotropic", 
+      "Structured output, Structured probabilistic model, Sum rule of probability", 
+      "Laplace distribution, Latent variable", 
+      "Conditional computation, Conditional independence, Conditional probability", 
+      "AIS, Almost everywhere", 
+      "Self-information", 
+      "xiii", 
+      "Multinoulli distribution"
+    ], 
+    "level": 2, 
+    "startpage": 67, 
+    "topicname": "Chapter 3 - Probability and Information Theory"
+  }, 
+  {
+    "endpage": 69, 
+    "keywordlist": [
+      "Frequentist probability", 
+      "Bayesian network, Bayesian probability"
+    ], 
+    "level": 3, 
+    "startpage": 68, 
+    "topicname": "3.1 Why Probability?"
+  }, 
+  {
+    "endpage": 70, 
+    "keywordlist": [
+      "Random variable", 
+      "Probability distribution", 
+      "Probability mass function"
+    ], 
+    "level": 3, 
+    "startpage": 70, 
+    "topicname": "3.2 Random Variables"
+  }, 
+  {
+    "endpage": 71, 
+    "keywordlist": [
+      "Jacobian matrix, Joint probability", 
+      "Uniform distribution", 
+      "Random variable", 
+      "Probability distribution", 
+      "Probability mass function"
+    ], 
+    "level": 3, 
+    "startpage": 70, 
+    "topicname": "3.3 Probability Distributions"
+  }, 
+  {
+    "endpage": 71, 
+    "keywordlist": [
+      "Jacobian matrix, Joint probability", 
+      "Uniform distribution", 
+      "Frequentist probability", 
+      "Random variable", 
+      "Bayesian network, Bayesian probability", 
+      "Probability distribution", 
+      "Probability mass function"
+    ], 
+    "level": 4, 
+    "startpage": 69, 
+    "topicname": "3.3.1 Discrete Variables and Probability Mass Functions"
+  }, 
+  {
+    "endpage": 72, 
+    "keywordlist": [
+      "Marginal probability", 
+      "Probability density function", 
+      "Structured output, Structured probabilistic model, Sum rule of probability"
+    ], 
+    "level": 3, 
+    "startpage": 72, 
+    "topicname": "3.4 Marginal Probability"
+  }, 
+  {
+    "endpage": 73, 
+    "keywordlist": [
+      "Chain rule of probability", 
+      "Conditional computation, Conditional independence, Conditional probability"
+    ], 
+    "level": 3, 
+    "startpage": 73, 
+    "topicname": "3.5 Conditional Probability"
+  }, 
+  {
+    "endpage": 73, 
+    "keywordlist": [
+      "Chain rule of probability", 
+      "Conditional computation, Conditional independence, Conditional probability"
+    ], 
+    "level": 3, 
+    "startpage": 73, 
+    "topicname": "3.6 The Chain Rule of Conditional Probabilities"
+  }, 
+  {
+    "endpage": 74, 
+    "keywordlist": [
+      "Expectation"
+    ], 
+    "level": 3, 
+    "startpage": 74, 
+    "topicname": "3.7 Independence and Conditional Independence"
+  }, 
+  {
+    "endpage": 75, 
+    "keywordlist": [
+      "Convolutional neural network, Coordinate descent, Correlation", 
+      "Expectation", 
+      "ssRBM, mann machine Standard deviation"
+    ], 
+    "level": 3, 
+    "startpage": 74, 
+    "topicname": "3.8 Expectation, Variance and Covariance"
+  }, 
+  {
+    "endpage": 80, 
+    "keywordlist": [
+      "Mixture distribution", 
+      "Multinomial distribution", 
+      "Central limit theorem", 
+      "Exponential distribution", 
+      "Cost function, Covariance, Covariance matrix", 
+      "Belief network, Bernoulli distribution", 
+      "Empirical distribution", 
+      "Di\ufb00erential entropy, Dirac delta function", 
+      "Isotropic", 
+      "Multinoulli distribution"
+    ], 
+    "level": 3, 
+    "startpage": 76, 
+    "topicname": "3.9 Common Probability Distributions"
+  }, 
+  {
+    "endpage": 76, 
+    "keywordlist": [
+      "Multinomial distribution", 
+      "Cost function, Covariance, Covariance matrix", 
+      "Belief network, Bernoulli distribution", 
+      "Multinoulli distribution"
+    ], 
+    "level": 4, 
+    "startpage": 76, 
+    "topicname": "3.9.1 Bernoulli Distribution"
+  }, 
+  {
+    "endpage": 76, 
+    "keywordlist": [
+      "Multinomial distribution", 
+      "Cost function, Covariance, Covariance matrix", 
+      "Belief network, Bernoulli distribution", 
+      "Multinoulli distribution"
+    ], 
+    "level": 4, 
+    "startpage": 76, 
+    "topicname": "3.9.2 Multinoulli Distribution"
+  }, 
+  {
+    "endpage": 78, 
+    "keywordlist": [
+      "Central limit theorem"
+    ], 
+    "level": 4, 
+    "startpage": 77, 
+    "topicname": "3.9.3 Gaussian Distribution"
+  }, 
+  {
+    "endpage": 79, 
+    "keywordlist": [
+      "Exponential distribution", 
+      "Di\ufb00erential entropy, Dirac delta function", 
+      "Isotropic"
+    ], 
+    "level": 4, 
+    "startpage": 79, 
+    "topicname": "3.9.4 Exponential and Laplace Distributions"
+  }, 
+  {
+    "endpage": 79, 
+    "keywordlist": [
+      "Exponential distribution", 
+      "Di\ufb00erential entropy, Dirac delta function", 
+      "Isotropic"
+    ], 
+    "level": 4, 
+    "startpage": 79, 
+    "topicname": "3.9.5 The Dirac Distribution and Empirical Distribution"
+  }, 
+  {
+    "endpage": 80, 
+    "keywordlist": [
+      "Mixture distribution", 
+      "Empirical distribution"
+    ], 
+    "level": 4, 
+    "startpage": 80, 
+    "topicname": "3.9.6 Mixtures of Distributions"
+  }, 
+  {
+    "endpage": 83, 
+    "keywordlist": [
+      "tion", 
+      "Laplace distribution, Latent variable"
+    ], 
+    "level": 3, 
+    "startpage": 81, 
+    "topicname": "3.10 Useful Properties of Common Functions"
+  }, 
+  {
+    "endpage": 84, 
+    "keywordlist": [
+      "Bayes\u2019 rule"
+    ], 
+    "level": 3, 
+    "startpage": 84, 
+    "topicname": "3.11 Bayes\u2019 Rule"
+  }, 
+  {
+    "endpage": 85, 
+    "keywordlist": [
+      "Measure theory", 
+      "Measure zero", 
+      "AIS, Almost everywhere"
+    ], 
+    "level": 3, 
+    "startpage": 85, 
+    "topicname": "3.12 Technical Details of Continuous Variables"
+  }, 
+  {
+    "endpage": 88, 
+    "keywordlist": [
+      "Nat", 
+      "Self-information", 
+      "xiii"
+    ], 
+    "level": 3, 
+    "startpage": 86, 
+    "topicname": "3.13 Information Theory"
+  }, 
+  {
+    "endpage": 93, 
+    "keywordlist": [
+      "Cross-entropy,"
+    ], 
+    "level": 3, 
+    "startpage": 89, 
+    "topicname": "3.14 Structured Probabilistic Models"
+  }, 
+  {
+    "endpage": 111, 
+    "keywordlist": [
+      "GPU, Gradient", 
+      "Lipschitz continuous", 
+      "Line search,", 
+      "Score matching, Second derivative", 
+      "Inequality constraint", 
+      "Objective function", 
+      "Hill climbing", 
+      "Directed graphical model, Directional derivative", 
+      "Second derivative test", 
+      "Pooling, Positive de\ufb01nite", 
+      "Generalized Lagrange function, ized Lagrangian Generalized Lagrangian", 
+      "Partial derivative", 
+      "Negative de\ufb01nite", 
+      "Lipschitz constant", 
+      "Equality constraint", 
+      "k-means, k-nearest neighbors, Karush-Kuhn-Tucker conditions, Karush\u2013Kuhn\u2013Tucker", 
+      "Learning rate", 
+      "Active constraint"
+    ], 
+    "level": 2, 
+    "startpage": 94, 
+    "topicname": "Chapter 4 - Numerical Computation"
+  }, 
+  {
+    "endpage": 95, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 94, 
+    "topicname": "4.1 Overflow and Underflow"
+  }, 
+  {
+    "endpage": 96, 
+    "keywordlist": [
+      "Objective function"
+    ], 
+    "level": 3, 
+    "startpage": 96, 
+    "topicname": "4.2 Poor Conditioning"
+  }, 
+  {
+    "endpage": 106, 
+    "keywordlist": [
+      "GPU, Gradient", 
+      "Lipschitz continuous", 
+      "Line search,", 
+      "Score matching, Second derivative", 
+      "Objective function", 
+      "Hill climbing", 
+      "Directed graphical model, Directional derivative", 
+      "Second derivative test", 
+      "Pooling, Positive de\ufb01nite", 
+      "Partial derivative", 
+      "Negative de\ufb01nite", 
+      "Lipschitz constant", 
+      "Learning rate"
+    ], 
+    "level": 3, 
+    "startpage": 96, 
+    "topicname": "4.3 Gradient-Based Optimization"
+  }, 
+  {
+    "endpage": 106, 
+    "keywordlist": [
+      "Lipschitz continuous", 
+      "Score matching, Second derivative", 
+      "Hill climbing", 
+      "Second derivative test", 
+      "Pooling, Positive de\ufb01nite", 
+      "Negative de\ufb01nite", 
+      "Lipschitz constant"
+    ], 
+    "level": 4, 
+    "startpage": 100, 
+    "topicname": "4.3.1 Beyond the Gradient: Jacobian and Hessian Matrices"
+  }, 
+  {
+    "endpage": 109, 
+    "keywordlist": [
+      "Inequality constraint", 
+      "Generalized Lagrange function, ized Lagrangian Generalized Lagrangian", 
+      "Equality constraint", 
+      "k-means, k-nearest neighbors, Karush-Kuhn-Tucker conditions, Karush\u2013Kuhn\u2013Tucker", 
+      "Active constraint"
+    ], 
+    "level": 3, 
+    "startpage": 107, 
+    "topicname": "4.4 Constrained Optimization"
+  }, 
+  {
+    "endpage": 111, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 110, 
+    "topicname": "4.5 Example: Linear Least Squares"
+  }, 
+  {
+    "endpage": 178, 
+    "keywordlist": [
+      "Backprop,", 
+      "Bias, Bias parameter", 
+      "Manifold hypothesis", 
+      "Regularization, Regularizer", 
+      "Almost sure convergence", 
+      "work", 
+      "Supervised \ufb01ne-tuning, Supervised learning", 
+      "Machine translation", 
+      "Standard error", 
+      "Feature", 
+      "Nearest neighbor regression", 
+      "Contrastive divergence, Convex optimization", 
+      "Standard error of the mean, Statistic", 
+      "Probability mass function estimation", 
+      "Dataset", 
+      "Regression", 
+      "Tensor, Test set", 
+      "Missing inputs", 
+      "DAE, Data generating distribution, Data generating process", 
+      "Partition function, PCA, PCD, Perceptron, Persistent contrastive divergence, Perturbation analysis, Point estimator", 
+      "Transcription", 
+      "Training error", 
+      "E\ufb00ective capacity", 
+      "MAP approximation,", 
+      "Gaussian distribution, Gaussian kernel", 
+      "Evidence lower bound, Example", 
+      "Prior probability distribution", 
+      "Adversarial training, A\ufb03ne", 
+      "Representational capacity", 
+      "Support vector machine", 
+      "Manifold", 
+      "Bayesian statistics", 
+      "Generalization", 
+      "Cross-validation", 
+      "Maximum likelihood", 
+      "Sample mean", 
+      "Arti\ufb01cial neural network, ASR, Asymptotically unbiased", 
+      "Curse of dimensionality", 
+      "Batch normalization, Bayes error", 
+      "VAE, Vapnik-Chervonenkis dimension", 
+      "Mean squared error", 
+      "model", 
+      "Kernel trick", 
+      "Density estimation", 
+      "Non-parametric model", 
+      "Manifold learning", 
+      "Classi\ufb01cation", 
+      "Template matching", 
+      "Newton\u2019s method, NLM, NLP, No free lunch theorem", 
+      "Derivative, Design matrix", 
+      "Unbiased", 
+      "Statistical learning theory", 
+      "Frequentist statistics", 
+      "Parameter initialization, Parameter sharing, Parameter tying, Parametric model"
+    ], 
+    "level": 2, 
+    "startpage": 112, 
+    "topicname": "Chapter 5 - Machine Learning Basics"
+  }, 
+  {
+    "endpage": 123, 
+    "keywordlist": [
+      "Backprop,", 
+      "work", 
+      "Supervised \ufb01ne-tuning, Supervised learning", 
+      "Machine translation", 
+      "Feature", 
+      "Probability mass function estimation", 
+      "Dataset", 
+      "Regression", 
+      "Missing inputs", 
+      "Transcription", 
+      "Evidence lower bound, Example", 
+      "Mean squared error", 
+      "Density estimation", 
+      "Classi\ufb01cation", 
+      "Derivative, Design matrix"
+    ], 
+    "level": 3, 
+    "startpage": 113, 
+    "topicname": "5.1 Learning Algorithms"
+  }, 
+  {
+    "endpage": 116, 
+    "keywordlist": [
+      "work", 
+      "Machine translation", 
+      "Feature", 
+      "Regression", 
+      "Missing inputs", 
+      "Transcription", 
+      "Evidence lower bound, Example", 
+      "Classi\ufb01cation"
+    ], 
+    "level": 4, 
+    "startpage": 113, 
+    "topicname": "5.1.1 The Task, T"
+  }, 
+  {
+    "endpage": 117, 
+    "keywordlist": [
+      "Probability mass function estimation", 
+      "Density estimation"
+    ], 
+    "level": 4, 
+    "startpage": 117, 
+    "topicname": "5.1.2 The Performance Measure, P"
+  }, 
+  {
+    "endpage": 120, 
+    "keywordlist": [
+      "Backprop,", 
+      "Supervised \ufb01ne-tuning, Supervised learning", 
+      "Dataset", 
+      "Derivative, Design matrix"
+    ], 
+    "level": 4, 
+    "startpage": 118, 
+    "topicname": "5.1.3 The Experience, E"
+  }, 
+  {
+    "endpage": 123, 
+    "keywordlist": [
+      "Mean squared error"
+    ], 
+    "level": 4, 
+    "startpage": 121, 
+    "topicname": "5.1.4 Example: Linear Regression"
+  }, 
+  {
+    "endpage": 133, 
+    "keywordlist": [
+      "Bias, Bias parameter", 
+      "Regularization, Regularizer", 
+      "Nearest neighbor regression", 
+      "Tensor, Test set", 
+      "DAE, Data generating distribution, Data generating process", 
+      "Training error", 
+      "E\ufb00ective capacity", 
+      "Adversarial training, A\ufb03ne", 
+      "Representational capacity", 
+      "Generalization", 
+      "Batch normalization, Bayes error", 
+      "VAE, Vapnik-Chervonenkis dimension", 
+      "Non-parametric model", 
+      "Newton\u2019s method, NLM, NLP, No free lunch theorem", 
+      "Statistical learning theory", 
+      "Parameter initialization, Parameter sharing, Parameter tying, Parametric model"
+    ], 
+    "level": 3, 
+    "startpage": 124, 
+    "topicname": "5.2 Capacity, Overfitting and Underfitting"
+  }, 
+  {
+    "endpage": 131, 
+    "keywordlist": [
+      "Batch normalization, Bayes error", 
+      "Newton\u2019s method, NLM, NLP, No free lunch theorem"
+    ], 
+    "level": 4, 
+    "startpage": 130, 
+    "topicname": "5.2.1 The No Free Lunch Theorem"
+  }, 
+  {
+    "endpage": 133, 
+    "keywordlist": [
+      "Regularization, Regularizer"
+    ], 
+    "level": 4, 
+    "startpage": 132, 
+    "topicname": "5.2.2 Regularization"
+  }, 
+  {
+    "endpage": 135, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 134, 
+    "topicname": "5.3 Hyperparameters and Validation Sets"
+  }, 
+  {
+    "endpage": 135, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 135, 
+    "topicname": "5.3.1 Cross-Validation"
+  }, 
+  {
+    "endpage": 144, 
+    "keywordlist": [
+      "Almost sure convergence", 
+      "Standard error", 
+      "Standard error of the mean, Statistic", 
+      "Partition function, PCA, PCD, Perceptron, Persistent contrastive divergence, Perturbation analysis, Point estimator", 
+      "Cross-validation", 
+      "Sample mean", 
+      "Arti\ufb01cial neural network, ASR, Asymptotically unbiased", 
+      "model", 
+      "Unbiased"
+    ], 
+    "level": 3, 
+    "startpage": 136, 
+    "topicname": "5.4 Estimators, Bias and Variance"
+  }, 
+  {
+    "endpage": 137, 
+    "keywordlist": [
+      "Standard error of the mean, Statistic", 
+      "Partition function, PCA, PCD, Perceptron, Persistent contrastive divergence, Perturbation analysis, Point estimator", 
+      "Cross-validation"
+    ], 
+    "level": 4, 
+    "startpage": 136, 
+    "topicname": "5.4.1 Point Estimation"
+  }, 
+  {
+    "endpage": 140, 
+    "keywordlist": [
+      "Sample mean", 
+      "Arti\ufb01cial neural network, ASR, Asymptotically unbiased", 
+      "model", 
+      "Unbiased"
+    ], 
+    "level": 4, 
+    "startpage": 138, 
+    "topicname": "5.4.2 Bias"
+  }, 
+  {
+    "endpage": 142, 
+    "keywordlist": [
+      "Standard error"
+    ], 
+    "level": 4, 
+    "startpage": 141, 
+    "topicname": "5.4.3 Variance and Standard Error"
+  }, 
+  {
+    "endpage": 143, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 143, 
+    "topicname": "5.4.4 Trading off Bias and Variance to Minimize Mean Squared Error"
+  }, 
+  {
+    "endpage": 144, 
+    "keywordlist": [
+      "Almost sure convergence"
+    ], 
+    "level": 4, 
+    "startpage": 144, 
+    "topicname": "5.4.5 Consistency"
+  }, 
+  {
+    "endpage": 148, 
+    "keywordlist": [
+      "Maximum likelihood"
+    ], 
+    "level": 3, 
+    "startpage": 145, 
+    "topicname": "5.5 Maximum Likelihood Estimation"
+  }, 
+  {
+    "endpage": 147, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 147, 
+    "topicname": "5.5.1 Conditional Log-Likelihood and Mean Squared Error"
+  }, 
+  {
+    "endpage": 148, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 148, 
+    "topicname": "5.5.2 Properties of Maximum Likelihood"
+  }, 
+  {
+    "endpage": 152, 
+    "keywordlist": [
+      "MAP approximation,", 
+      "Prior probability distribution", 
+      "Bayesian statistics", 
+      "Frequentist statistics"
+    ], 
+    "level": 3, 
+    "startpage": 149, 
+    "topicname": "5.6 Bayesian Statistics"
+  }, 
+  {
+    "endpage": 152, 
+    "keywordlist": [
+      "MAP approximation,"
+    ], 
+    "level": 4, 
+    "startpage": 152, 
+    "topicname": "5.6.1 Maximum A Posteriori (MAP) Estimation"
+  }, 
+  {
+    "endpage": 158, 
+    "keywordlist": [
+      "Contrastive divergence, Convex optimization", 
+      "Gaussian distribution, Gaussian kernel", 
+      "Support vector machine", 
+      "Kernel trick", 
+      "Template matching"
+    ], 
+    "level": 3, 
+    "startpage": 153, 
+    "topicname": "5.7 Supervised Learning Algorithms"
+  }, 
+  {
+    "endpage": 154, 
+    "keywordlist": [
+      "Support vector machine"
+    ], 
+    "level": 4, 
+    "startpage": 154, 
+    "topicname": "5.7.1 Probabilistic Supervised Learning"
+  }, 
+  {
+    "endpage": 156, 
+    "keywordlist": [
+      "Contrastive divergence, Convex optimization", 
+      "Gaussian distribution, Gaussian kernel", 
+      "Support vector machine", 
+      "Kernel trick", 
+      "Template matching"
+    ], 
+    "level": 4, 
+    "startpage": 154, 
+    "topicname": "5.7.2 Support Vector Machines"
+  }, 
+  {
+    "endpage": 158, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 157, 
+    "topicname": "5.7.3 Other Simple Supervised Learning Algorithms"
+  }, 
+  {
+    "endpage": 163, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 159, 
+    "topicname": "5.8 Unsupervised Learning Algorithms"
+  }, 
+  {
+    "endpage": 162, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 160, 
+    "topicname": "5.8.1 Principal Components Analysis"
+  }, 
+  {
+    "endpage": 163, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 163, 
+    "topicname": "5.8.2 k-means Clustering"
+  }, 
+  {
+    "endpage": 165, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 164, 
+    "topicname": "5.9 Stochastic Gradient Descent"
+  }, 
+  {
+    "endpage": 167, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 166, 
+    "topicname": "5.10 Building a Machine Learning Algorithm"
+  }, 
+  {
+    "endpage": 178, 
+    "keywordlist": [
+      "Manifold hypothesis", 
+      "Manifold", 
+      "Curse of dimensionality", 
+      "Manifold learning"
+    ], 
+    "level": 3, 
+    "startpage": 168, 
+    "topicname": "5.11 Challenges Motivating Deep Learning"
+  }, 
+  {
+    "endpage": 169, 
+    "keywordlist": [
+      "Curse of dimensionality"
+    ], 
+    "level": 4, 
+    "startpage": 168, 
+    "topicname": "5.11.1 The Curse of Dimensionality"
+  }, 
+  {
+    "endpage": 173, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 170, 
+    "topicname": "5.11.2 Local Constancy and Smoothness Regularization"
+  }, 
+  {
+    "endpage": 178, 
+    "keywordlist": [
+      "Manifold hypothesis", 
+      "Manifold", 
+      "Manifold learning"
+    ], 
+    "level": 4, 
+    "startpage": 174, 
+    "topicname": "5.11.3 Manifold Learning"
+  }, 
+  {
+    "endpage": 501, 
+    "keywordlist": [
+      "Forget gate", 
+      "Universal approximation theorem", 
+      "Detector layer", 
+      "Receptive \ufb01eld", 
+      "Audio, Autoencoder, Automatic speech recognition", 
+      "Chain rule (calculus)", 
+      "Layer (neural network)", 
+      "Word-sense disambiguation", 
+      "Triangulated graph, Trigram", 
+      "KKT, KKT conditions, KL divergence, Knowledge base, Krylov methods", 
+      "ences trick", 
+      "Transpose, tion trick Stochastic gradient descent,", 
+      "LCN, Leaky ReLU", 
+      "Surrogate loss function", 
+      "Output layer", 
+      "Initialization", 
+      "Computational graph", 
+      "Contextual bandits", 
+      "Clique potential, CNN, Collaborative Filtering", 
+      "Norm, Normal distribution, Normal equations, Normalized initialization", 
+      "Gradient clipping, Gradient descent, Graph, xii Graphical model, Graphics processing unit", 
+      "WordNet", 
+      "Quasi-Newton methods", 
+      "Simple cell", 
+      "Bayesian hyperparameter optimization", 
+      "Greedy layer-wise unsupervised pretraining, Greedy supervised pretraining", 
+      "Policy", 
+      "Volumetric data", 
+      "Forward propagation", 
+      "Complex cell", 
+      "Model compression", 
+      "Kullback-Leibler divergence, Label smoothing", 
+      "Classical dynamical system", 
+      "Wikibase", 
+      "Word embedding", 
+      "SVD, Symmetric matrix, Tangent distance", 
+      "Empirical risk", 
+      "Saddle points", 
+      "Consistency, Constrained optimization, Content-based addressing", 
+      "Numerical di\ufb00erentiation, Object detection", 
+      "Bagging", 
+      "Finite di\ufb00erences", 
+      "Condition number", 
+      "CTC, Curriculum learning", 
+      "Tangent prop", 
+      "Model identi\ufb01ability", 
+      "Hessian matrix, Heteroscedastic", 
+      "Local conditional probability distribution, Local contrast normalization", 
+      "uct,", 
+      "Contrast", 
+      "Connectionist temporal classi\ufb01cation", 
+      "Dream sleep, DropConnect", 
+      "ADALINE, Adam, Adaptive linear element, Adversarial example", 
+      "Hyperparameter optimization", 
+      "Recommender Systems", 
+      "Exploitation", 
+      "Whitening", 
+      "Content-based recommender systems", 
+      "Class-based language models", 
+      "Time-delay neural network, Toeplitz matrix", 
+      "rected model", 
+      "Semi-supervised learning", 
+      "Tikhonov regularization, Tiled convolution", 
+      "Unsupervised learning, Unsupervised pretraining, V-structure, V1", 
+      "Gaussian mixture, GCN, GeneOntology", 
+      "n-gram", 
+      "Liquid state machine", 
+      "Bag of words", 
+      "FVBN, Gabor function", 
+      "RBF", 
+      "Linear regression, Link prediction", 
+      "Continuation methods", 
+      "Leaky units", 
+      "Bigram", 
+      "Free energy, Freebase", 
+      "Natural language processing", 
+      "Activation function", 
+      "Sparse coding, Sparse initialization, Sparse representation, Spearmint", 
+      "GANs, Gated recurrent unit", 
+      "Feature selection", 
+      "Pretraining, Primary visual cortex", 
+      "Spectral radius", 
+      "Computer vision", 
+      "Negative phase, Neocognitron, Nesterov momentum", 
+      "Net\ufb02ix Grand Prize, Neural language model,", 
+      "Binary relation", 
+      "Integral, xiii Invariance", 
+      "Doubly block circulant matrix", 
+      "Quadrature pair", 
+      "Manifold tangent classi\ufb01er", 
+      "Grid search", 
+      "of probability Quadrature pair", 
+      "conditions gence Knowledge base, Krylov methods", 
+      "Object recognition", 
+      "Unigram", 
+      "Double backprop", 
+      "Ridge regression, Risk", 
+      "Separable convolution", 
+      "tanh", 
+      "Data parallelism", 
+      "Fourier transform, Fovea", 
+      "AdaGrad", 
+      "RBM, Recall", 
+      "Restricted Boltzmann machine,", 
+      "position", 
+      "Gibbs sampling, Global contrast normalization", 
+      "Neural Turing machine", 
+      "Back-propagation through time", 
+      "Set, xii SGD, Shannon entropy, Shortlist", 
+      "Exploration", 
+      "Parametric ReLU", 
+      "Energy-based model, Ensemble methods", 
+      "Variance, Variational autoencoder, Variational derivatives, Variational free energy, VC dimension, Vector, Virtual adversarial examples", 
+      "Operation", 
+      "Recurrent neural network", 
+      "CAE, Calculus of variations", 
+      "BFGS", 
+      "Steepest descent, Stochastic back-propagation, Stochastic gradient descent, Stochastic maximum likelihood, Stochastic pooling", 
+      "Cross-correlation", 
+      "Reinforcement learning, Relational database", 
+      "Equivariance", 
+      "Model parallelism", 
+      "Radial basis function", 
+      "Positive phase, Precision", 
+      "Accuracy", 
+      "Fine-tuning", 
+      "F-score", 
+      "Feedforward neural network", 
+      "Coverage", 
+      "Epoch", 
+      "tic maximum likelihood", 
+      "Empirical risk minimization", 
+      ",xiv", 
+      "Wake-sleep, Weight decay, Weight space symmetry", 
+      "Mixture density networks", 
+      "Greedy algorithm", 
+      "Helmholtz free energy, Hessian", 
+      "Max pooling", 
+      "Preprocessing", 
+      "Collider, Color images", 
+      "Back-propagation", 
+      "Minibatch", 
+      "0-1 loss, Absolute value recti\ufb01cation", 
+      "Mixture model, Mixture of experts, MLP, MNIST, Model averaging", 
+      "Random search"
+    ], 
+    "level": 1, 
+    "startpage": 179, 
+    "topicname": "Part II - Deep Networks: Modern Practices"
+  }, 
+  {
+    "endpage": 241, 
+    "keywordlist": [
+      "Universal approximation theorem", 
+      "Chain rule (calculus)", 
+      "Layer (neural network)", 
+      "KKT, KKT conditions, KL divergence, Knowledge base, Krylov methods", 
+      "LCN, Leaky ReLU", 
+      "Output layer", 
+      "Computational graph", 
+      "Forward propagation", 
+      "Hessian matrix, Heteroscedastic", 
+      "RBF", 
+      "Activation function", 
+      "conditions gence Knowledge base, Krylov methods", 
+      "tanh", 
+      "position", 
+      "Parametric ReLU", 
+      "Operation", 
+      "CAE, Calculus of variations", 
+      "Radial basis function", 
+      "Feedforward neural network", 
+      "Mixture density networks", 
+      "Helmholtz free energy, Hessian", 
+      "Back-propagation", 
+      "0-1 loss, Absolute value recti\ufb01cation"
+    ], 
+    "level": 2, 
+    "startpage": 181, 
+    "topicname": "Chapter 6 - Deep Feedforward Networks"
+  }, 
+  {
+    "endpage": 189, 
+    "keywordlist": [
+      "Activation function"
+    ], 
+    "level": 3, 
+    "startpage": 184, 
+    "topicname": "6.1 Example: Learning XOR"
+  }, 
+  {
+    "endpage": 203, 
+    "keywordlist": [
+      "Hessian matrix, Heteroscedastic", 
+      "position", 
+      "CAE, Calculus of variations", 
+      "Mixture density networks"
+    ], 
+    "level": 3, 
+    "startpage": 190, 
+    "topicname": "6.2 Gradient-Based Learning"
+  }, 
+  {
+    "endpage": 193, 
+    "keywordlist": [
+      "CAE, Calculus of variations"
+    ], 
+    "level": 4, 
+    "startpage": 191, 
+    "topicname": "6.2.1 Cost Functions"
+  }, 
+  {
+    "endpage": 192, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 191, 
+    "topicname": "6.2.1.1 Learning Conditional Distributions with Maximum Likelihood"
+  }, 
+  {
+    "endpage": 193, 
+    "keywordlist": [
+      "CAE, Calculus of variations"
+    ], 
+    "level": 5, 
+    "startpage": 193, 
+    "topicname": "6.2.1.2 Learning Conditional Statistics"
+  }, 
+  {
+    "endpage": 203, 
+    "keywordlist": [
+      "Hessian matrix, Heteroscedastic", 
+      "position", 
+      "Mixture density networks"
+    ], 
+    "level": 4, 
+    "startpage": 194, 
+    "topicname": "6.2.2 Output Units"
+  }, 
+  {
+    "endpage": 194, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 194, 
+    "topicname": "6.2.2.1 Linear Units for Gaussian Output Distributions"
+  }, 
+  {
+    "endpage": 196, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 195, 
+    "topicname": "6.2.2.2 Sigmoid Units for Bernoulli Output Distributions"
+  }, 
+  {
+    "endpage": 199, 
+    "keywordlist": [
+      "position"
+    ], 
+    "level": 5, 
+    "startpage": 197, 
+    "topicname": "6.2.2.3 Softmax Units for Multinoulli Output Distributions"
+  }, 
+  {
+    "endpage": 203, 
+    "keywordlist": [
+      "Hessian matrix, Heteroscedastic", 
+      "Mixture density networks"
+    ], 
+    "level": 5, 
+    "startpage": 200, 
+    "topicname": "6.2.2.4 Other Output Types"
+  }, 
+  {
+    "endpage": 209, 
+    "keywordlist": [
+      "LCN, Leaky ReLU", 
+      "Parametric ReLU", 
+      "0-1 loss, Absolute value recti\ufb01cation"
+    ], 
+    "level": 3, 
+    "startpage": 204, 
+    "topicname": "6.3 Hidden Units"
+  }, 
+  {
+    "endpage": 207, 
+    "keywordlist": [
+      "LCN, Leaky ReLU", 
+      "Parametric ReLU", 
+      "0-1 loss, Absolute value recti\ufb01cation"
+    ], 
+    "level": 4, 
+    "startpage": 206, 
+    "topicname": "6.3.1 Rectified Linear Units and Their Generalizations"
+  }, 
+  {
+    "endpage": 208, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 208, 
+    "topicname": "6.3.2 Logistic Sigmoid and Hyperbolic Tangent"
+  }, 
+  {
+    "endpage": 209, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 209, 
+    "topicname": "6.3.3 Other Hidden Units"
+  }, 
+  {
+    "endpage": 216, 
+    "keywordlist": [
+      "Universal approximation theorem", 
+      "RBF", 
+      "tanh", 
+      "Radial basis function"
+    ], 
+    "level": 3, 
+    "startpage": 210, 
+    "topicname": "6.4 Architecture Design"
+  }, 
+  {
+    "endpage": 213, 
+    "keywordlist": [
+      "Universal approximation theorem"
+    ], 
+    "level": 4, 
+    "startpage": 211, 
+    "topicname": "6.4.1 Universal Approximation Properties and Depth"
+  }, 
+  {
+    "endpage": 216, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 214, 
+    "topicname": "6.4.2 Other Architectural Considerations"
+  }, 
+  {
+    "endpage": 237, 
+    "keywordlist": [
+      "Chain rule (calculus)", 
+      "KKT, KKT conditions, KL divergence, Knowledge base, Krylov methods", 
+      "Computational graph", 
+      "Forward propagation", 
+      "conditions gence Knowledge base, Krylov methods", 
+      "Operation", 
+      "Helmholtz free energy, Hessian", 
+      "Back-propagation"
+    ], 
+    "level": 3, 
+    "startpage": 217, 
+    "topicname": "6.5 Back-Propagation and Other Differentiation Algorithms"
+  }, 
+  {
+    "endpage": 219, 
+    "keywordlist": [
+      "Computational graph", 
+      "Operation"
+    ], 
+    "level": 4, 
+    "startpage": 218, 
+    "topicname": "6.5.1 Computational Graphs"
+  }, 
+  {
+    "endpage": 220, 
+    "keywordlist": [
+      "Chain rule (calculus)"
+    ], 
+    "level": 4, 
+    "startpage": 220, 
+    "topicname": "6.5.2 Chain Rule of Calculus"
+  }, 
+  {
+    "endpage": 223, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 221, 
+    "topicname": "6.5.3 Recursively Applying the Chain Rule to Obtain Backprop"
+  }, 
+  {
+    "endpage": 224, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 224, 
+    "topicname": "6.5.4 Back-Propagation Computation in Fully-Connected MLP"
+  }, 
+  {
+    "endpage": 227, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 224, 
+    "topicname": "6.5.5 Symbol-to-Symbol Derivatives"
+  }, 
+  {
+    "endpage": 231, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 228, 
+    "topicname": "6.5.6 General Back-Propagation"
+  }, 
+  {
+    "endpage": 233, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 232, 
+    "topicname": "6.5.7 Example: Back-Propagation for MLP Training"
+  }, 
+  {
+    "endpage": 234, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 234, 
+    "topicname": "6.5.8 Complications"
+  }, 
+  {
+    "endpage": 236, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 235, 
+    "topicname": "6.5.9 Differentiation outside the Deep Learning Community"
+  }, 
+  {
+    "endpage": 237, 
+    "keywordlist": [
+      "KKT, KKT conditions, KL divergence, Knowledge base, Krylov methods", 
+      "conditions gence Knowledge base, Krylov methods", 
+      "Helmholtz free energy, Hessian"
+    ], 
+    "level": 4, 
+    "startpage": 237, 
+    "topicname": "6.5.10 Higher-Order Derivatives"
+  }, 
+  {
+    "endpage": 241, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 238, 
+    "topicname": "6.6 Historical Notes"
+  }, 
+  {
+    "endpage": 287, 
+    "keywordlist": [
+      "Kullback-Leibler divergence, Label smoothing", 
+      "SVD, Symmetric matrix, Tangent distance", 
+      "Bagging", 
+      "Tangent prop", 
+      "uct,", 
+      "Dream sleep, DropConnect", 
+      "ADALINE, Adam, Adaptive linear element, Adversarial example", 
+      "rected model", 
+      "Semi-supervised learning", 
+      "Feature selection", 
+      "Manifold tangent classi\ufb01er", 
+      "Double backprop", 
+      "Energy-based model, Ensemble methods", 
+      "Variance, Variational autoencoder, Variational derivatives, Variational free energy, VC dimension, Vector, Virtual adversarial examples", 
+      "Steepest descent, Stochastic back-propagation, Stochastic gradient descent, Stochastic maximum likelihood, Stochastic pooling", 
+      "Epoch", 
+      "Mixture model, Mixture of experts, MLP, MNIST, Model averaging"
+    ], 
+    "level": 2, 
+    "startpage": 242, 
+    "topicname": "Chapter 7 - Regularization for Deep Learning"
+  }, 
+  {
+    "endpage": 250, 
+    "keywordlist": [
+      "Feature selection"
+    ], 
+    "level": 3, 
+    "startpage": 244, 
+    "topicname": "7.1 Parameter Norm Penalties"
+  }, 
+  {
+    "endpage": 247, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 245, 
+    "topicname": "7.1.1 L2 Parameter Regularization"
+  }, 
+  {
+    "endpage": 250, 
+    "keywordlist": [
+      "Feature selection"
+    ], 
+    "level": 4, 
+    "startpage": 248, 
+    "topicname": "7.1.2 L1 Regularization"
+  }, 
+  {
+    "endpage": 252, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 251, 
+    "topicname": "7.2 Norm Penalties as Constrained Optimization"
+  }, 
+  {
+    "endpage": 253, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 253, 
+    "topicname": "7.3 Regularization and Under-Constrained Problems"
+  }, 
+  {
+    "endpage": 255, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 254, 
+    "topicname": "7.4 Dataset Augmentation"
+  }, 
+  {
+    "endpage": 256, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 256, 
+    "topicname": "7.5 Noise Robustness"
+  }, 
+  {
+    "endpage": 257, 
+    "keywordlist": [
+      "Kullback-Leibler divergence, Label smoothing", 
+      "Semi-supervised learning"
+    ], 
+    "level": 3, 
+    "startpage": 257, 
+    "topicname": "7.6 Semi-Supervised Learning"
+  }, 
+  {
+    "endpage": 259, 
+    "keywordlist": [
+      "rected model"
+    ], 
+    "level": 3, 
+    "startpage": 258, 
+    "topicname": "7.7 Multi-Task Learning"
+  }, 
+  {
+    "endpage": 266, 
+    "keywordlist": [
+      "uct,", 
+      "Epoch"
+    ], 
+    "level": 3, 
+    "startpage": 260, 
+    "topicname": "7.8 Early Stopping"
+  }, 
+  {
+    "endpage": 267, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 267, 
+    "topicname": "7.9 Parameter Tying and Parameter Sharing"
+  }, 
+  {
+    "endpage": 269, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 268, 
+    "topicname": "7.10 Sparse Representations"
+  }, 
+  {
+    "endpage": 271, 
+    "keywordlist": [
+      "Bagging", 
+      "Energy-based model, Ensemble methods", 
+      "Mixture model, Mixture of experts, MLP, MNIST, Model averaging"
+    ], 
+    "level": 3, 
+    "startpage": 270, 
+    "topicname": "7.11 Bagging and Other Ensemble Methods"
+  }, 
+  {
+    "endpage": 281, 
+    "keywordlist": [
+      "Dream sleep, DropConnect", 
+      "Steepest descent, Stochastic back-propagation, Stochastic gradient descent, Stochastic maximum likelihood, Stochastic pooling"
+    ], 
+    "level": 3, 
+    "startpage": 272, 
+    "topicname": "7.12 Dropout"
+  }, 
+  {
+    "endpage": 283, 
+    "keywordlist": [
+      "ADALINE, Adam, Adaptive linear element, Adversarial example", 
+      "Variance, Variational autoencoder, Variational derivatives, Variational free energy, VC dimension, Vector, Virtual adversarial examples"
+    ], 
+    "level": 3, 
+    "startpage": 282, 
+    "topicname": "7.13 Adversarial Training"
+  }, 
+  {
+    "endpage": 287, 
+    "keywordlist": [
+      "SVD, Symmetric matrix, Tangent distance", 
+      "Tangent prop", 
+      "Manifold tangent classi\ufb01er", 
+      "Double backprop"
+    ], 
+    "level": 3, 
+    "startpage": 284, 
+    "topicname": "7.14 Tangent Distance, Tangent Prop, and Manifold Tangent Classifier"
+  }, 
+  {
+    "endpage": 343, 
+    "keywordlist": [
+      "Forget gate", 
+      "Transpose, tion trick Stochastic gradient descent,", 
+      "Surrogate loss function", 
+      "Initialization", 
+      "Norm, Normal distribution, Normal equations, Normalized initialization", 
+      "Quasi-Newton methods", 
+      "Greedy layer-wise unsupervised pretraining, Greedy supervised pretraining", 
+      "Empirical risk", 
+      "Saddle points", 
+      "Condition number", 
+      "CTC, Curriculum learning", 
+      "Model identi\ufb01ability", 
+      "Continuation methods", 
+      "Negative phase, Neocognitron, Nesterov momentum", 
+      "Ridge regression, Risk", 
+      "AdaGrad", 
+      "BFGS", 
+      "Fine-tuning", 
+      "Empirical risk minimization", 
+      ",xiv", 
+      "Wake-sleep, Weight decay, Weight space symmetry", 
+      "Greedy algorithm", 
+      "Minibatch"
+    ], 
+    "level": 2, 
+    "startpage": 288, 
+    "topicname": "Chapter 8 - Optimization for Training Deep Models"
+  }, 
+  {
+    "endpage": 295, 
+    "keywordlist": [
+      "Surrogate loss function", 
+      "Empirical risk", 
+      "Condition number", 
+      "Ridge regression, Risk", 
+      "Empirical risk minimization", 
+      "Minibatch"
+    ], 
+    "level": 3, 
+    "startpage": 289, 
+    "topicname": "8.1 How Learning Differs from Pure Optimization"
+  }, 
+  {
+    "endpage": 289, 
+    "keywordlist": [
+      "Ridge regression, Risk"
+    ], 
+    "level": 4, 
+    "startpage": 289, 
+    "topicname": "8.1.1 Empirical Risk Minimization"
+  }, 
+  {
+    "endpage": 290, 
+    "keywordlist": [
+      "Surrogate loss function", 
+      "Empirical risk", 
+      "Empirical risk minimization"
+    ], 
+    "level": 4, 
+    "startpage": 290, 
+    "topicname": "8.1.2 Surrogate Loss Functions and Early Stopping"
+  }, 
+  {
+    "endpage": 295, 
+    "keywordlist": [
+      "Condition number", 
+      "Minibatch"
+    ], 
+    "level": 4, 
+    "startpage": 291, 
+    "topicname": "8.1.3 Batch and Minibatch Algorithms"
+  }, 
+  {
+    "endpage": 307, 
+    "keywordlist": [
+      "Saddle points", 
+      "Model identi\ufb01ability", 
+      "Wake-sleep, Weight decay, Weight space symmetry"
+    ], 
+    "level": 3, 
+    "startpage": 296, 
+    "topicname": "8.2 Challenges in Neural Network Optimization"
+  }, 
+  {
+    "endpage": 296, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 296, 
+    "topicname": "8.2.1 Ill-Conditioning"
+  }, 
+  {
+    "endpage": 298, 
+    "keywordlist": [
+      "Model identi\ufb01ability", 
+      "Wake-sleep, Weight decay, Weight space symmetry"
+    ], 
+    "level": 4, 
+    "startpage": 297, 
+    "topicname": "8.2.2 Local Minima"
+  }, 
+  {
+    "endpage": 301, 
+    "keywordlist": [
+      "Saddle points"
+    ], 
+    "level": 4, 
+    "startpage": 299, 
+    "topicname": "8.2.3 Plateaus, Saddle Points and Other Flat Regions"
+  }, 
+  {
+    "endpage": 302, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 302, 
+    "topicname": "8.2.4 Cliffs and Exploding Gradients"
+  }, 
+  {
+    "endpage": 303, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 303, 
+    "topicname": "8.2.5 Long-Term Dependencies"
+  }, 
+  {
+    "endpage": 304, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 304, 
+    "topicname": "8.2.6 Inexact Gradients"
+  }, 
+  {
+    "endpage": 306, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 305, 
+    "topicname": "8.2.7 Poor Correspondence between Local and Global Structure"
+  }, 
+  {
+    "endpage": 307, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 307, 
+    "topicname": "8.2.8 Theoretical Limits of Optimization"
+  }, 
+  {
+    "endpage": 314, 
+    "keywordlist": [
+      "Transpose, tion trick Stochastic gradient descent,", 
+      "Negative phase, Neocognitron, Nesterov momentum"
+    ], 
+    "level": 3, 
+    "startpage": 308, 
+    "topicname": "8.3 Basic Algorithms"
+  }, 
+  {
+    "endpage": 309, 
+    "keywordlist": [
+      "Transpose, tion trick Stochastic gradient descent,"
+    ], 
+    "level": 4, 
+    "startpage": 308, 
+    "topicname": "8.3.1 Stochastic Gradient Descent"
+  }, 
+  {
+    "endpage": 313, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 310, 
+    "topicname": "8.3.2 Momentum"
+  }, 
+  {
+    "endpage": 314, 
+    "keywordlist": [
+      "Negative phase, Neocognitron, Nesterov momentum"
+    ], 
+    "level": 4, 
+    "startpage": 314, 
+    "topicname": "8.3.3 Nesterov Momentum"
+  }, 
+  {
+    "endpage": 319, 
+    "keywordlist": [
+      "Initialization", 
+      "Norm, Normal distribution, Normal equations, Normalized initialization"
+    ], 
+    "level": 3, 
+    "startpage": 315, 
+    "topicname": "8.4 Parameter Initialization Strategies"
+  }, 
+  {
+    "endpage": 323, 
+    "keywordlist": [
+      "Forget gate", 
+      "AdaGrad"
+    ], 
+    "level": 3, 
+    "startpage": 320, 
+    "topicname": "8.5 Algorithms with Adaptive Learning Rates"
+  }, 
+  {
+    "endpage": 321, 
+    "keywordlist": [
+      "AdaGrad"
+    ], 
+    "level": 4, 
+    "startpage": 321, 
+    "topicname": "8.5.1 AdaGrad"
+  }, 
+  {
+    "endpage": 321, 
+    "keywordlist": [
+      "AdaGrad"
+    ], 
+    "level": 4, 
+    "startpage": 321, 
+    "topicname": "8.5.2 RMSProp"
+  }, 
+  {
+    "endpage": 322, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 322, 
+    "topicname": "8.5.3 Adam"
+  }, 
+  {
+    "endpage": 323, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 323, 
+    "topicname": "8.5.4 Choosing the Right Optimization Algorithm"
+  }, 
+  {
+    "endpage": 330, 
+    "keywordlist": [
+      "Quasi-Newton methods", 
+      "BFGS"
+    ], 
+    "level": 3, 
+    "startpage": 324, 
+    "topicname": "8.6 Approximate Second-Order Methods"
+  }, 
+  {
+    "endpage": 326, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 324, 
+    "topicname": "8.6.1 Newton\u2019s Method"
+  }, 
+  {
+    "endpage": 329, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 327, 
+    "topicname": "8.6.2 Conjugate Gradients"
+  }, 
+  {
+    "endpage": 330, 
+    "keywordlist": [
+      "Quasi-Newton methods", 
+      "BFGS"
+    ], 
+    "level": 4, 
+    "startpage": 330, 
+    "topicname": "8.6.3 BFGS"
+  }, 
+  {
+    "endpage": 343, 
+    "keywordlist": [
+      "Greedy layer-wise unsupervised pretraining, Greedy supervised pretraining", 
+      "CTC, Curriculum learning", 
+      "Continuation methods", 
+      "Fine-tuning", 
+      ",xiv", 
+      "Greedy algorithm"
+    ], 
+    "level": 3, 
+    "startpage": 331, 
+    "topicname": "8.7 Optimization Strategies and Meta-Algorithms"
+  }, 
+  {
+    "endpage": 334, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 331, 
+    "topicname": "8.7.1 Batch Normalization"
+  }, 
+  {
+    "endpage": 335, 
+    "keywordlist": [
+      ",xiv"
+    ], 
+    "level": 4, 
+    "startpage": 335, 
+    "topicname": "8.7.2 Coordinate Descent"
+  }, 
+  {
+    "endpage": 336, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 336, 
+    "topicname": "8.7.3 Polyak Averaging"
+  }, 
+  {
+    "endpage": 338, 
+    "keywordlist": [
+      "Greedy layer-wise unsupervised pretraining, Greedy supervised pretraining", 
+      "Fine-tuning", 
+      "Greedy algorithm"
+    ], 
+    "level": 4, 
+    "startpage": 336, 
+    "topicname": "8.7.4 Supervised Pretraining"
+  }, 
+  {
+    "endpage": 339, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 339, 
+    "topicname": "8.7.5 Designing Models to Aid Optimization"
+  }, 
+  {
+    "endpage": 343, 
+    "keywordlist": [
+      "CTC, Curriculum learning", 
+      "Continuation methods"
+    ], 
+    "level": 4, 
+    "startpage": 340, 
+    "topicname": "8.7.6 Continuation Methods and Curriculum Learning"
+  }, 
+  {
+    "endpage": 386, 
+    "keywordlist": [
+      "Detector layer", 
+      "Receptive \ufb01eld", 
+      "ences trick", 
+      "Simple cell", 
+      "Volumetric data", 
+      "Complex cell", 
+      "Time-delay neural network, Toeplitz matrix", 
+      "Tikhonov regularization, Tiled convolution", 
+      "Unsupervised learning, Unsupervised pretraining, V-structure, V1", 
+      "FVBN, Gabor function", 
+      "Pretraining, Primary visual cortex", 
+      "Integral, xiii Invariance", 
+      "Doubly block circulant matrix", 
+      "Quadrature pair", 
+      "of probability Quadrature pair", 
+      "Separable convolution", 
+      "Fourier transform, Fovea", 
+      "Restricted Boltzmann machine,", 
+      "Cross-correlation", 
+      "Equivariance", 
+      "tic maximum likelihood", 
+      "Max pooling", 
+      "Collider, Color images"
+    ], 
+    "level": 2, 
+    "startpage": 344, 
+    "topicname": "Chapter 9 - Convolutional Networks"
+  }, 
+  {
+    "endpage": 348, 
+    "keywordlist": [
+      "Time-delay neural network, Toeplitz matrix", 
+      "Doubly block circulant matrix", 
+      "Cross-correlation"
+    ], 
+    "level": 3, 
+    "startpage": 345, 
+    "topicname": "9.1 The Convolution Operation"
+  }, 
+  {
+    "endpage": 352, 
+    "keywordlist": [
+      "Receptive \ufb01eld", 
+      "Equivariance"
+    ], 
+    "level": 3, 
+    "startpage": 349, 
+    "topicname": "9.2 Motivation"
+  }, 
+  {
+    "endpage": 358, 
+    "keywordlist": [
+      "Detector layer", 
+      "Integral, xiii Invariance", 
+      "Max pooling"
+    ], 
+    "level": 3, 
+    "startpage": 353, 
+    "topicname": "9.3 Pooling"
+  }, 
+  {
+    "endpage": 360, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 359, 
+    "topicname": "9.4 Convolution and Pooling as an Infinitely Strong Prior"
+  }, 
+  {
+    "endpage": 371, 
+    "keywordlist": [
+      "Tikhonov regularization, Tiled convolution", 
+      "Restricted Boltzmann machine,"
+    ], 
+    "level": 3, 
+    "startpage": 361, 
+    "topicname": "9.5 Variants of the Basic Convolution Function"
+  }, 
+  {
+    "endpage": 373, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 372, 
+    "topicname": "9.6 Structured Outputs"
+  }, 
+  {
+    "endpage": 375, 
+    "keywordlist": [
+      "Volumetric data", 
+      "Collider, Color images"
+    ], 
+    "level": 3, 
+    "startpage": 374, 
+    "topicname": "9.7 Data Types"
+  }, 
+  {
+    "endpage": 376, 
+    "keywordlist": [
+      "Separable convolution"
+    ], 
+    "level": 3, 
+    "startpage": 376, 
+    "topicname": "9.8 Efficient Convolution Algorithms"
+  }, 
+  {
+    "endpage": 377, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 377, 
+    "topicname": "9.9 Random or Unsupervised Features"
+  }, 
+  {
+    "endpage": 384, 
+    "keywordlist": [
+      "Simple cell", 
+      "Complex cell", 
+      "Unsupervised learning, Unsupervised pretraining, V-structure, V1", 
+      "FVBN, Gabor function", 
+      "Pretraining, Primary visual cortex", 
+      "Quadrature pair", 
+      "of probability Quadrature pair", 
+      "Fourier transform, Fovea"
+    ], 
+    "level": 3, 
+    "startpage": 378, 
+    "topicname": "9.10 The Neuroscientific Basis for Convolutional Networks"
+  }, 
+  {
+    "endpage": 386, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 385, 
+    "topicname": "9.11 Convolutional Networks and the History of Deep Learning"
+  }, 
+  {
+    "endpage": 436, 
+    "keywordlist": [
+      "Classical dynamical system", 
+      "Consistency, Constrained optimization, Content-based addressing", 
+      "Liquid state machine", 
+      "Leaky units", 
+      "Spectral radius", 
+      "Neural Turing machine", 
+      "Back-propagation through time", 
+      "Recurrent neural network"
+    ], 
+    "level": 2, 
+    "startpage": 387, 
+    "topicname": "Chapter 10 - Sequence Modeling: Recurrent and Recursive Nets"
+  }, 
+  {
+    "endpage": 391, 
+    "keywordlist": [
+      "Classical dynamical system"
+    ], 
+    "level": 3, 
+    "startpage": 389, 
+    "topicname": "10.1 Unfolding Computational Graphs"
+  }, 
+  {
+    "endpage": 408, 
+    "keywordlist": [
+      "Back-propagation through time", 
+      "Recurrent neural network"
+    ], 
+    "level": 3, 
+    "startpage": 392, 
+    "topicname": "10.2 Recurrent Neural Networks"
+  }, 
+  {
+    "endpage": 397, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 395, 
+    "topicname": "10.2.1 Teacher Forcing and Networks with Output Recurrence"
+  }, 
+  {
+    "endpage": 399, 
+    "keywordlist": [
+      "Back-propagation through time"
+    ], 
+    "level": 4, 
+    "startpage": 398, 
+    "topicname": "10.2.2 Computing the Gradient in a Recurrent Neural Network"
+  }, 
+  {
+    "endpage": 404, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 400, 
+    "topicname": "10.2.3 Recurrent Networks as Directed Graphical Models"
+  }, 
+  {
+    "endpage": 408, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 405, 
+    "topicname": "10.2.4 Modeling Sequences Conditioned on Context with RNNs"
+  }, 
+  {
+    "endpage": 409, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 409, 
+    "topicname": "10.3 Bidirectional RNNs"
+  }, 
+  {
+    "endpage": 411, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 410, 
+    "topicname": "10.4 Encoder-Decoder Sequence-to-Sequence Architectures"
+  }, 
+  {
+    "endpage": 413, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 412, 
+    "topicname": "10.5 Deep Recurrent Networks"
+  }, 
+  {
+    "endpage": 415, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 414, 
+    "topicname": "10.6 Recursive Neural Networks"
+  }, 
+  {
+    "endpage": 418, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 416, 
+    "topicname": "10.7 The Challenge of Long-Term Dependencies"
+  }, 
+  {
+    "endpage": 421, 
+    "keywordlist": [
+      "Liquid state machine", 
+      "Spectral radius"
+    ], 
+    "level": 3, 
+    "startpage": 419, 
+    "topicname": "10.8 Echo State Networks"
+  }, 
+  {
+    "endpage": 423, 
+    "keywordlist": [
+      "Leaky units"
+    ], 
+    "level": 3, 
+    "startpage": 422, 
+    "topicname": "10.9 Leaky Units and Other Strategies for Multiple Time Scales"
+  }, 
+  {
+    "endpage": 422, 
+    "keywordlist": [
+      "Leaky units"
+    ], 
+    "level": 4, 
+    "startpage": 422, 
+    "topicname": "10.9.1 Adding Skip Connections through Time"
+  }, 
+  {
+    "endpage": 422, 
+    "keywordlist": [
+      "Leaky units"
+    ], 
+    "level": 4, 
+    "startpage": 422, 
+    "topicname": "10.9.2 Leaky Units and a Spectrum of Different Time Scales"
+  }, 
+  {
+    "endpage": 423, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 423, 
+    "topicname": "10.9.3 Removing Connections"
+  }, 
+  {
+    "endpage": 427, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 424, 
+    "topicname": "10.10 The Long Short-Term Memory and Other Gated RNNs"
+  }, 
+  {
+    "endpage": 426, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 424, 
+    "topicname": "10.10.1 LSTM"
+  }, 
+  {
+    "endpage": 427, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 427, 
+    "topicname": "10.10.2 Other Gated RNNs"
+  }, 
+  {
+    "endpage": 431, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 428, 
+    "topicname": "10.11 Optimization for Long-Term Dependencies"
+  }, 
+  {
+    "endpage": 430, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 429, 
+    "topicname": "10.11.1 Clipping Gradients"
+  }, 
+  {
+    "endpage": 431, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 431, 
+    "topicname": "10.11.2 Regularizing to Encourage Information Flow"
+  }, 
+  {
+    "endpage": 436, 
+    "keywordlist": [
+      "Consistency, Constrained optimization, Content-based addressing", 
+      "Neural Turing machine"
+    ], 
+    "level": 3, 
+    "startpage": 432, 
+    "topicname": "10.12 Explicit Memory"
+  }, 
+  {
+    "endpage": 458, 
+    "keywordlist": [
+      "Bayesian hyperparameter optimization", 
+      "Finite di\ufb00erences", 
+      "Hyperparameter optimization", 
+      "Sparse coding, Sparse initialization, Sparse representation, Spearmint", 
+      "GANs, Gated recurrent unit", 
+      "Grid search", 
+      "RBM, Recall", 
+      "Positive phase, Precision", 
+      "Accuracy", 
+      "F-score", 
+      "Coverage", 
+      "Random search"
+    ], 
+    "level": 2, 
+    "startpage": 437, 
+    "topicname": "Chapter 11 - Practical Methodology"
+  }, 
+  {
+    "endpage": 440, 
+    "keywordlist": [
+      "RBM, Recall", 
+      "Positive phase, Precision", 
+      "Accuracy", 
+      "F-score", 
+      "Coverage"
+    ], 
+    "level": 3, 
+    "startpage": 438, 
+    "topicname": "11.1 Performance Metrics"
+  }, 
+  {
+    "endpage": 441, 
+    "keywordlist": [
+      "GANs, Gated recurrent unit"
+    ], 
+    "level": 3, 
+    "startpage": 441, 
+    "topicname": "11.2 Default Baseline Models"
+  }, 
+  {
+    "endpage": 442, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 442, 
+    "topicname": "11.3 Determining Whether to Gather More Data"
+  }, 
+  {
+    "endpage": 451, 
+    "keywordlist": [
+      "Hyperparameter optimization", 
+      "Grid search", 
+      "Random search"
+    ], 
+    "level": 3, 
+    "startpage": 443, 
+    "topicname": "11.4 Selecting Hyperparameters"
+  }, 
+  {
+    "endpage": 447, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 444, 
+    "topicname": "11.4.1 Manual Hyperparameter Tuning"
+  }, 
+  {
+    "endpage": 448, 
+    "keywordlist": [
+      "Hyperparameter optimization", 
+      "Grid search"
+    ], 
+    "level": 4, 
+    "startpage": 448, 
+    "topicname": "11.4.2 Automatic Hyperparameter Optimization Algorithms"
+  }, 
+  {
+    "endpage": 449, 
+    "keywordlist": [
+      "Hyperparameter optimization", 
+      "Grid search"
+    ], 
+    "level": 4, 
+    "startpage": 448, 
+    "topicname": "11.4.3 Grid Search"
+  }, 
+  {
+    "endpage": 450, 
+    "keywordlist": [
+      "Random search"
+    ], 
+    "level": 4, 
+    "startpage": 450, 
+    "topicname": "11.4.4 Random Search"
+  }, 
+  {
+    "endpage": 451, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 451, 
+    "topicname": "11.4.5 Model-Based Hyperparameter Optimization"
+  }, 
+  {
+    "endpage": 455, 
+    "keywordlist": [
+      "Bayesian hyperparameter optimization", 
+      "Finite di\ufb00erences", 
+      "Sparse coding, Sparse initialization, Sparse representation, Spearmint"
+    ], 
+    "level": 3, 
+    "startpage": 452, 
+    "topicname": "11.5 Debugging Strategies"
+  }, 
+  {
+    "endpage": 458, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 456, 
+    "topicname": "11.6 Example: Multi-Digit Number Recognition"
+  }, 
+  {
+    "endpage": 501, 
+    "keywordlist": [
+      "Audio, Autoencoder, Automatic speech recognition", 
+      "Word-sense disambiguation", 
+      "Triangulated graph, Trigram", 
+      "Contextual bandits", 
+      "Clique potential, CNN, Collaborative Filtering", 
+      "Gradient clipping, Gradient descent, Graph, xii Graphical model, Graphics processing unit", 
+      "WordNet", 
+      "Policy", 
+      "Model compression", 
+      "Wikibase", 
+      "Word embedding", 
+      "Numerical di\ufb00erentiation, Object detection", 
+      "Local conditional probability distribution, Local contrast normalization", 
+      "Contrast", 
+      "Connectionist temporal classi\ufb01cation", 
+      "Recommender Systems", 
+      "Exploitation", 
+      "Whitening", 
+      "Content-based recommender systems", 
+      "Class-based language models", 
+      "Gaussian mixture, GCN, GeneOntology", 
+      "n-gram", 
+      "Bag of words", 
+      "Linear regression, Link prediction", 
+      "Bigram", 
+      "Free energy, Freebase", 
+      "Natural language processing", 
+      "Computer vision", 
+      "Net\ufb02ix Grand Prize, Neural language model,", 
+      "Binary relation", 
+      "Object recognition", 
+      "Unigram", 
+      "Data parallelism", 
+      "Gibbs sampling, Global contrast normalization", 
+      "Set, xii SGD, Shannon entropy, Shortlist", 
+      "Exploration", 
+      "Reinforcement learning, Relational database", 
+      "Model parallelism", 
+      "Preprocessing"
+    ], 
+    "level": 2, 
+    "startpage": 459, 
+    "topicname": "Chapter 12 - Applications"
+  }, 
+  {
+    "endpage": 467, 
+    "keywordlist": [
+      "Gradient clipping, Gradient descent, Graph, xii Graphical model, Graphics processing unit", 
+      "Model compression", 
+      "Data parallelism", 
+      "Model parallelism"
+    ], 
+    "level": 3, 
+    "startpage": 459, 
+    "topicname": "12.1 Large Scale Deep Learning"
+  }, 
+  {
+    "endpage": 460, 
+    "keywordlist": [
+      "Gradient clipping, Gradient descent, Graph, xii Graphical model, Graphics processing unit"
+    ], 
+    "level": 4, 
+    "startpage": 460, 
+    "topicname": "12.1.1 Fast CPU Implementations"
+  }, 
+  {
+    "endpage": 462, 
+    "keywordlist": [
+      "Gradient clipping, Gradient descent, Graph, xii Graphical model, Graphics processing unit"
+    ], 
+    "level": 4, 
+    "startpage": 460, 
+    "topicname": "12.1.2 GPU Implementations"
+  }, 
+  {
+    "endpage": 463, 
+    "keywordlist": [
+      "Data parallelism", 
+      "Model parallelism"
+    ], 
+    "level": 4, 
+    "startpage": 463, 
+    "topicname": "12.1.3 Large Scale Distributed Implementations"
+  }, 
+  {
+    "endpage": 463, 
+    "keywordlist": [
+      "Data parallelism", 
+      "Model parallelism"
+    ], 
+    "level": 4, 
+    "startpage": 463, 
+    "topicname": "12.1.4 Model Compression"
+  }, 
+  {
+    "endpage": 466, 
+    "keywordlist": [
+      "Model compression"
+    ], 
+    "level": 4, 
+    "startpage": 464, 
+    "topicname": "12.1.5 Dynamic Structure"
+  }, 
+  {
+    "endpage": 467, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 467, 
+    "topicname": "12.1.6 Specialized Hardware Implementations of Deep Networks"
+  }, 
+  {
+    "endpage": 473, 
+    "keywordlist": [
+      "Numerical di\ufb00erentiation, Object detection", 
+      "Local conditional probability distribution, Local contrast normalization", 
+      "Contrast", 
+      "Whitening", 
+      "Computer vision", 
+      "Object recognition", 
+      "Gibbs sampling, Global contrast normalization", 
+      "Preprocessing"
+    ], 
+    "level": 3, 
+    "startpage": 468, 
+    "topicname": "12.2 Computer Vision"
+  }, 
+  {
+    "endpage": 473, 
+    "keywordlist": [
+      "Numerical di\ufb00erentiation, Object detection", 
+      "Local conditional probability distribution, Local contrast normalization", 
+      "Contrast", 
+      "Whitening", 
+      "Object recognition", 
+      "Gibbs sampling, Global contrast normalization", 
+      "Preprocessing"
+    ], 
+    "level": 4, 
+    "startpage": 469, 
+    "topicname": "12.2.1 Preprocessing"
+  }, 
+  {
+    "endpage": 472, 
+    "keywordlist": [
+      "Local conditional probability distribution, Local contrast normalization", 
+      "Contrast", 
+      "Whitening", 
+      "Gibbs sampling, Global contrast normalization"
+    ], 
+    "level": 5, 
+    "startpage": 470, 
+    "topicname": "12.2.1.1 Contrast Normalization"
+  }, 
+  {
+    "endpage": 473, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 473, 
+    "topicname": "12.2.1.2 Dataset Augmentation"
+  }, 
+  {
+    "endpage": 476, 
+    "keywordlist": [
+      "Audio, Autoencoder, Automatic speech recognition", 
+      "Connectionist temporal classi\ufb01cation"
+    ], 
+    "level": 3, 
+    "startpage": 474, 
+    "topicname": "12.3 Speech Recognition"
+  }, 
+  {
+    "endpage": 492, 
+    "keywordlist": [
+      "Triangulated graph, Trigram", 
+      "Word embedding", 
+      "Class-based language models", 
+      "n-gram", 
+      "Bag of words", 
+      "Bigram", 
+      "Natural language processing", 
+      "Net\ufb02ix Grand Prize, Neural language model,", 
+      "Unigram", 
+      "Set, xii SGD, Shannon entropy, Shortlist"
+    ], 
+    "level": 3, 
+    "startpage": 477, 
+    "topicname": "12.4 Natural Language Processing"
+  }, 
+  {
+    "endpage": 478, 
+    "keywordlist": [
+      "Triangulated graph, Trigram", 
+      "n-gram", 
+      "Bigram", 
+      "Natural language processing", 
+      "Unigram"
+    ], 
+    "level": 4, 
+    "startpage": 477, 
+    "topicname": "12.4.1 n-grams"
+  }, 
+  {
+    "endpage": 480, 
+    "keywordlist": [
+      "Word embedding", 
+      "Class-based language models", 
+      "Net\ufb02ix Grand Prize, Neural language model,"
+    ], 
+    "level": 4, 
+    "startpage": 479, 
+    "topicname": "12.4.2 Neural Language Models"
+  }, 
+  {
+    "endpage": 487, 
+    "keywordlist": [
+      "Bag of words", 
+      "Set, xii SGD, Shannon entropy, Shortlist"
+    ], 
+    "level": 4, 
+    "startpage": 481, 
+    "topicname": "12.4.3 High-Dimensional Outputs"
+  }, 
+  {
+    "endpage": 482, 
+    "keywordlist": [
+      "Set, xii SGD, Shannon entropy, Shortlist"
+    ], 
+    "level": 5, 
+    "startpage": 482, 
+    "topicname": "12.4.3.1 Use of a Short List"
+  }, 
+  {
+    "endpage": 484, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 483, 
+    "topicname": "12.4.3.2 Hierarchical Softmax"
+  }, 
+  {
+    "endpage": 486, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 485, 
+    "topicname": "12.4.3.3 Importance Sampling"
+  }, 
+  {
+    "endpage": 487, 
+    "keywordlist": [
+      "Bag of words"
+    ], 
+    "level": 5, 
+    "startpage": 487, 
+    "topicname": "12.4.3.4 Noise-Contrastive Estimation and Ranking Loss"
+  }, 
+  {
+    "endpage": 488, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 488, 
+    "topicname": "12.4.4 Combining Neural Language Models with n-grams"
+  }, 
+  {
+    "endpage": 491, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 489, 
+    "topicname": "12.4.5 Neural Machine Translation"
+  }, 
+  {
+    "endpage": 491, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 491, 
+    "topicname": "12.4.5.1 Using an Attention Mechanism and Aligning Pieces of Data"
+  }, 
+  {
+    "endpage": 492, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 492, 
+    "topicname": "12.4.6 Historical Perspective"
+  }, 
+  {
+    "endpage": 501, 
+    "keywordlist": [
+      "Word-sense disambiguation", 
+      "Contextual bandits", 
+      "Clique potential, CNN, Collaborative Filtering", 
+      "WordNet", 
+      "Policy", 
+      "Wikibase", 
+      "Recommender Systems", 
+      "Exploitation", 
+      "Content-based recommender systems", 
+      "Gaussian mixture, GCN, GeneOntology", 
+      "Linear regression, Link prediction", 
+      "Free energy, Freebase", 
+      "Binary relation", 
+      "Exploration", 
+      "Reinforcement learning, Relational database"
+    ], 
+    "level": 3, 
+    "startpage": 493, 
+    "topicname": "12.5 Other Applications"
+  }, 
+  {
+    "endpage": 497, 
+    "keywordlist": [
+      "Contextual bandits", 
+      "Clique potential, CNN, Collaborative Filtering", 
+      "Policy", 
+      "Recommender Systems", 
+      "Exploitation", 
+      "Content-based recommender systems", 
+      "Exploration"
+    ], 
+    "level": 4, 
+    "startpage": 494, 
+    "topicname": "12.5.1 Recommender Systems"
+  }, 
+  {
+    "endpage": 497, 
+    "keywordlist": [
+      "Contextual bandits", 
+      "Policy", 
+      "Exploitation", 
+      "Content-based recommender systems", 
+      "Exploration"
+    ], 
+    "level": 5, 
+    "startpage": 496, 
+    "topicname": "12.5.1.1 Exploration Versus Exploitation"
+  }, 
+  {
+    "endpage": 501, 
+    "keywordlist": [
+      "Word-sense disambiguation", 
+      "WordNet", 
+      "Wikibase", 
+      "Gaussian mixture, GCN, GeneOntology", 
+      "Linear regression, Link prediction", 
+      "Free energy, Freebase", 
+      "Binary relation", 
+      "Reinforcement learning, Relational database"
+    ], 
+    "level": 4, 
+    "startpage": 498, 
+    "topicname": "12.5.2 Knowledge Representation, Reasoning and Question Answering"
+  }, 
+  {
+    "endpage": 501, 
+    "keywordlist": [
+      "Word-sense disambiguation", 
+      "WordNet", 
+      "Wikibase", 
+      "Gaussian mixture, GCN, GeneOntology", 
+      "Linear regression, Link prediction", 
+      "Free energy, Freebase", 
+      "Binary relation", 
+      "Reinforcement learning, Relational database"
+    ], 
+    "level": 5, 
+    "startpage": 498, 
+    "topicname": "12.5.2.1 Knowledge, Relations and Question Answering"
+  }, 
+  {
+    "endpage": 736, 
+    "keywordlist": [
+      "Hadamard product, Hard Harmonium, Harmony theory", 
+      "LSTM, M-step", 
+      "Noise-contrastive estimation", 
+      "Boltzmann distribution", 
+      "Block Gibbs sampling", 
+      "Singular value decomposition, Singular vector, Slow feature analysis", 
+      "Independence, Independent and identically distributed, Independent component analysis", 
+      "Linear factor models", 
+      "Ancestral sampling,", 
+      "Chordal graph", 
+      "Universal approximator", 
+      "Information retrieval", 
+      "ELBO, Element-wise product, EM, Embedding", 
+      "Factor (graphical model)", 
+      "Maxout, MCMC, Mean \ufb01eld,", 
+      "Energy function", 
+      "Probabilistic PCA,", 
+      "Undirected graphical model, Undirected model", 
+      "Distributed representation, Domain adaptation", 
+      "recognition chine", 
+      "Lagrange multipliers, Lagrangian, LAPGAN", 
+      "Loopy belief propagation", 
+      "Precision (of a normal distribution), Predictive sparse decomposition", 
+      "Ratio matching", 
+      "Discriminative \ufb01ne-tuning, Discriminative RBM", 
+      "Critical temperature", 
+      "Semantic hashing", 
+      "Topographic ICA", 
+      "Product of experts", 
+      "Functional derivatives", 
+      "Markov chain Monte Carlo", 
+      "D-separation", 
+      "Burn-in", 
+      "Product rule of probability, of probability PSD, Pseudolikelihood", 
+      "FPCD", 
+      "ized Lagrangian", 
+      "Gibbs distribution", 
+      "Structure learning", 
+      "Factor graph", 
+      "Separation (probabilistic modeling)", 
+      "Kernel (convolution), Kernel machine", 
+      "Markov chain", 
+      "Deep belief network,", 
+      "Approximate inference", 
+      "TDNN, Teacher forcing, Tempering", 
+      "Independent subspace analysis", 
+      "Tangent plane", 
+      "Sum-product network", 
+      "Euler-Lagrange equation", 
+      "ANN, Annealed importance sampling, Approximate Bayesian computation", 
+      "RNN-RBM", 
+      "ILSVRC, ImageNet Large-Scale Visual Recognition Immorality", 
+      "NADE", 
+      "Biased importance sampling", 
+      "Logistic regression, Logistic sigmoid, Long short-term memory, Loop", 
+      "Mixing (Markov chain)", 
+      "Zero-shot learning", 
+      "Context-speci\ufb01c independence", 
+      "Dropout, Dynamic structure, E-step", 
+      "Transfer learning", 
+      "Multi-prediction DBM", 
+      "Generative adversarial networks, Generative moment matching networks", 
+      "Chord", 
+      "Moment matching", 
+      "Contractive autoencoder", 
+      "Categorical distribution, CD, Centering trick (DBM)", 
+      "Natural image", 
+      "Factor analysis", 
+      "Concept drift", 
+      "MP-DBM, MRF (Markov Random Field), MSE, Multi-modal learning", 
+      "Deep feedforward network, Deep learning, Denoising autoencoder, Denoising score matching", 
+      "REINFORCE", 
+      "Probabilistic max pooling", 
+      "OMP- ,k One-shot learning", 
+      "Principal components analysis,", 
+      "\ufb01ne-tuning Discriminative RBM", 
+      "Importance sampling, Importance weighted autoencoder", 
+      "Expectation maximization", 
+      "Conditional RBM", 
+      "Reparametrization trick", 
+      "Fully-visible Bayes network", 
+      "Expected value, Explaining away,", 
+      "Moore-Penrose pseudoinverse, Moralized graph", 
+      "Generator network", 
+      "Unnormalized probability distribution"
+    ], 
+    "level": 1, 
+    "startpage": 502, 
+    "topicname": "Part III - Deep Learning Research"
+  }, 
+  {
+    "endpage": 517, 
+    "keywordlist": [
+      "Singular value decomposition, Singular vector, Slow feature analysis", 
+      "Independence, Independent and identically distributed, Independent component analysis", 
+      "Linear factor models", 
+      "Probabilistic PCA,", 
+      "Topographic ICA", 
+      "Independent subspace analysis", 
+      "Factor analysis", 
+      "Principal components analysis,"
+    ], 
+    "level": 2, 
+    "startpage": 505, 
+    "topicname": "Chapter 13 - Linear Factor Models"
+  }, 
+  {
+    "endpage": 506, 
+    "keywordlist": [
+      "Probabilistic PCA,", 
+      "Factor analysis", 
+      "Principal components analysis,"
+    ], 
+    "level": 3, 
+    "startpage": 506, 
+    "topicname": "13.1 Probabilistic PCA and Factor Analysis"
+  }, 
+  {
+    "endpage": 508, 
+    "keywordlist": [
+      "Independence, Independent and identically distributed, Independent component analysis"
+    ], 
+    "level": 3, 
+    "startpage": 507, 
+    "topicname": "13.2 Independent Component Analysis (ICA)"
+  }, 
+  {
+    "endpage": 511, 
+    "keywordlist": [
+      "Singular value decomposition, Singular vector, Slow feature analysis", 
+      "Topographic ICA", 
+      "Independent subspace analysis"
+    ], 
+    "level": 3, 
+    "startpage": 509, 
+    "topicname": "13.3 Slow Feature Analysis"
+  }, 
+  {
+    "endpage": 514, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 512, 
+    "topicname": "13.4 Sparse Coding"
+  }, 
+  {
+    "endpage": 517, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 515, 
+    "topicname": "13.5 Manifold Interpretation of PCA"
+  }, 
+  {
+    "endpage": 541, 
+    "keywordlist": [
+      "Information retrieval", 
+      "ELBO, Element-wise product, EM, Embedding", 
+      "Precision (of a normal distribution), Predictive sparse decomposition", 
+      "Semantic hashing", 
+      "Tangent plane", 
+      "Contractive autoencoder"
+    ], 
+    "level": 2, 
+    "startpage": 518, 
+    "topicname": "Chapter 14 - Autoencoders"
+  }, 
+  {
+    "endpage": 519, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 519, 
+    "topicname": "14.1 Undercomplete Autoencoders"
+  }, 
+  {
+    "endpage": 523, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 520, 
+    "topicname": "14.2 Regularized Autoencoders"
+  }, 
+  {
+    "endpage": 522, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 521, 
+    "topicname": "14.2.1 Sparse Autoencoders"
+  }, 
+  {
+    "endpage": 523, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 523, 
+    "topicname": "14.2.2 Denoising Autoencoders"
+  }, 
+  {
+    "endpage": 524, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 524, 
+    "topicname": "14.2.3 Regularizing by Penalizing Derivatives"
+  }, 
+  {
+    "endpage": 524, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 524, 
+    "topicname": "14.3 Representational Power, Layer Size and Depth"
+  }, 
+  {
+    "endpage": 525, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 525, 
+    "topicname": "14.4 Stochastic Encoders and Decoders"
+  }, 
+  {
+    "endpage": 530, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 526, 
+    "topicname": "14.5 Denoising Autoencoders"
+  }, 
+  {
+    "endpage": 530, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 529, 
+    "topicname": "14.5.1 Estimating the Score"
+  }, 
+  {
+    "endpage": 531, 
+    "keywordlist": [], 
+    "level": 5, 
+    "startpage": 531, 
+    "topicname": "14.5.1.1 Historical Perspective"
+  }, 
+  {
+    "endpage": 536, 
+    "keywordlist": [
+      "ELBO, Element-wise product, EM, Embedding", 
+      "Tangent plane"
+    ], 
+    "level": 3, 
+    "startpage": 531, 
+    "topicname": "14.6 Learning Manifolds with Autoencoders"
+  }, 
+  {
+    "endpage": 538, 
+    "keywordlist": [
+      "Contractive autoencoder"
+    ], 
+    "level": 3, 
+    "startpage": 537, 
+    "topicname": "14.7 Contractive Autoencoders"
+  }, 
+  {
+    "endpage": 539, 
+    "keywordlist": [
+      "Precision (of a normal distribution), Predictive sparse decomposition"
+    ], 
+    "level": 3, 
+    "startpage": 539, 
+    "topicname": "14.8 Predictive Sparse Decomposition"
+  }, 
+  {
+    "endpage": 541, 
+    "keywordlist": [
+      "Information retrieval", 
+      "Semantic hashing"
+    ], 
+    "level": 3, 
+    "startpage": 540, 
+    "topicname": "14.9 Applications of Autoencoders"
+  }, 
+  {
+    "endpage": 573, 
+    "keywordlist": [
+      "Universal approximator", 
+      "Distributed representation, Domain adaptation", 
+      "Kernel (convolution), Kernel machine", 
+      "Deep belief network,", 
+      "Sum-product network", 
+      "Zero-shot learning", 
+      "Transfer learning", 
+      "Concept drift", 
+      "MP-DBM, MRF (Markov Random Field), MSE, Multi-modal learning", 
+      "OMP- ,k One-shot learning"
+    ], 
+    "level": 2, 
+    "startpage": 542, 
+    "topicname": "Chapter 15 - Representation Learning"
+  }, 
+  {
+    "endpage": 551, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 544, 
+    "topicname": "15.1 Greedy Layer-Wise Unsupervised Pretraining"
+  }, 
+  {
+    "endpage": 551, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 545, 
+    "topicname": "15.1.1 When and Why Does Unsupervised Pretraining Work?"
+  }, 
+  {
+    "endpage": 556, 
+    "keywordlist": [
+      "Distributed representation, Domain adaptation", 
+      "Zero-shot learning", 
+      "Transfer learning", 
+      "Concept drift", 
+      "MP-DBM, MRF (Markov Random Field), MSE, Multi-modal learning", 
+      "OMP- ,k One-shot learning"
+    ], 
+    "level": 3, 
+    "startpage": 552, 
+    "topicname": "15.2 Transfer Learning and Domain Adaptation"
+  }, 
+  {
+    "endpage": 561, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 557, 
+    "topicname": "15.3 Semi-Supervised Disentangling of Causal Factors"
+  }, 
+  {
+    "endpage": 568, 
+    "keywordlist": [
+      "Kernel (convolution), Kernel machine", 
+      "Deep belief network,"
+    ], 
+    "level": 3, 
+    "startpage": 562, 
+    "topicname": "15.4 Distributed Representation"
+  }, 
+  {
+    "endpage": 569, 
+    "keywordlist": [
+      "Universal approximator", 
+      "Sum-product network"
+    ], 
+    "level": 3, 
+    "startpage": 569, 
+    "topicname": "15.5 Exponential Gains from Depth"
+  }, 
+  {
+    "endpage": 573, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 570, 
+    "topicname": "15.6 Providing Clues to Discover Underlying Causes"
+  }, 
+  {
+    "endpage": 605, 
+    "keywordlist": [
+      "Hadamard product, Hard Harmonium, Harmony theory", 
+      "Boltzmann distribution", 
+      "Ancestral sampling,", 
+      "Chordal graph", 
+      "Factor (graphical model)", 
+      "Energy function", 
+      "Undirected graphical model, Undirected model", 
+      "Loopy belief propagation", 
+      "Product of experts", 
+      "D-separation", 
+      "ized Lagrangian", 
+      "Gibbs distribution", 
+      "Structure learning", 
+      "Factor graph", 
+      "Separation (probabilistic modeling)", 
+      "Approximate inference", 
+      "ILSVRC, ImageNet Large-Scale Visual Recognition Immorality", 
+      "Logistic regression, Logistic sigmoid, Long short-term memory, Loop", 
+      "Context-speci\ufb01c independence", 
+      "Chord", 
+      "Natural image", 
+      "Expected value, Explaining away,", 
+      "Moore-Penrose pseudoinverse, Moralized graph", 
+      "Unnormalized probability distribution"
+    ], 
+    "level": 2, 
+    "startpage": 574, 
+    "topicname": "Chapter 16 - Structured Probabilistic Models for Deep Learning"
+  }, 
+  {
+    "endpage": 578, 
+    "keywordlist": [
+      "Natural image"
+    ], 
+    "level": 3, 
+    "startpage": 575, 
+    "topicname": "16.1 The Challenge of Unstructured Modeling"
+  }, 
+  {
+    "endpage": 595, 
+    "keywordlist": [
+      "Hadamard product, Hard Harmonium, Harmony theory", 
+      "Boltzmann distribution", 
+      "Chordal graph", 
+      "Factor (graphical model)", 
+      "Energy function", 
+      "Undirected graphical model, Undirected model", 
+      "Product of experts", 
+      "D-separation", 
+      "Gibbs distribution", 
+      "Factor graph", 
+      "Separation (probabilistic modeling)", 
+      "ILSVRC, ImageNet Large-Scale Visual Recognition Immorality", 
+      "Logistic regression, Logistic sigmoid, Long short-term memory, Loop", 
+      "Context-speci\ufb01c independence", 
+      "Chord", 
+      "Expected value, Explaining away,", 
+      "Moore-Penrose pseudoinverse, Moralized graph", 
+      "Unnormalized probability distribution"
+    ], 
+    "level": 3, 
+    "startpage": 579, 
+    "topicname": "16.2 Using Graphs to Describe Model Structure"
+  }, 
+  {
+    "endpage": 581, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 579, 
+    "topicname": "16.2.1 Directed Models"
+  }, 
+  {
+    "endpage": 583, 
+    "keywordlist": [
+      "Factor (graphical model)", 
+      "Undirected graphical model, Undirected model", 
+      "Unnormalized probability distribution"
+    ], 
+    "level": 4, 
+    "startpage": 582, 
+    "topicname": "16.2.2 Undirected Models"
+  }, 
+  {
+    "endpage": 584, 
+    "keywordlist": [
+      "Gibbs distribution"
+    ], 
+    "level": 4, 
+    "startpage": 584, 
+    "topicname": "16.2.3 The Partition Function"
+  }, 
+  {
+    "endpage": 587, 
+    "keywordlist": [
+      "Hadamard product, Hard Harmonium, Harmony theory", 
+      "Boltzmann distribution", 
+      "Energy function", 
+      "Product of experts"
+    ], 
+    "level": 4, 
+    "startpage": 585, 
+    "topicname": "16.2.4 Energy-Based Models"
+  }, 
+  {
+    "endpage": 588, 
+    "keywordlist": [
+      "D-separation", 
+      "Separation (probabilistic modeling)"
+    ], 
+    "level": 4, 
+    "startpage": 588, 
+    "topicname": "16.2.5 Separation and D-Separation"
+  }, 
+  {
+    "endpage": 594, 
+    "keywordlist": [
+      "ILSVRC, ImageNet Large-Scale Visual Recognition Immorality", 
+      "Context-speci\ufb01c independence", 
+      "Expected value, Explaining away,", 
+      "Moore-Penrose pseudoinverse, Moralized graph"
+    ], 
+    "level": 4, 
+    "startpage": 589, 
+    "topicname": "16.2.6 Converting between Undirected and Directed Graphs"
+  }, 
+  {
+    "endpage": 595, 
+    "keywordlist": [
+      "Chordal graph", 
+      "Factor graph", 
+      "Logistic regression, Logistic sigmoid, Long short-term memory, Loop", 
+      "Chord"
+    ], 
+    "level": 4, 
+    "startpage": 595, 
+    "topicname": "16.2.7 Factor Graphs"
+  }, 
+  {
+    "endpage": 597, 
+    "keywordlist": [
+      "Ancestral sampling,", 
+      "ized Lagrangian"
+    ], 
+    "level": 3, 
+    "startpage": 596, 
+    "topicname": "16.3 Sampling from Graphical Models"
+  }, 
+  {
+    "endpage": 598, 
+    "keywordlist": [
+      "Structure learning"
+    ], 
+    "level": 3, 
+    "startpage": 598, 
+    "topicname": "16.4 Advantages of Structured Modeling"
+  }, 
+  {
+    "endpage": 598, 
+    "keywordlist": [
+      "Structure learning"
+    ], 
+    "level": 3, 
+    "startpage": 598, 
+    "topicname": "16.5 Learning about Dependencies"
+  }, 
+  {
+    "endpage": 599, 
+    "keywordlist": [
+      "Approximate inference"
+    ], 
+    "level": 3, 
+    "startpage": 599, 
+    "topicname": "16.6 Inference and Approximate Inference"
+  }, 
+  {
+    "endpage": 605, 
+    "keywordlist": [
+      "Loopy belief propagation"
+    ], 
+    "level": 3, 
+    "startpage": 600, 
+    "topicname": "16.7 The Deep Learning Approach to Structured Probabilistic Models"
+  }, 
+  {
+    "endpage": 605, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 603, 
+    "topicname": "16.7.1 Example: The Restricted Boltzmann Machine"
+  }, 
+  {
+    "endpage": 620, 
+    "keywordlist": [
+      "Block Gibbs sampling", 
+      "Critical temperature", 
+      "Markov chain Monte Carlo", 
+      "Burn-in", 
+      "Markov chain", 
+      "TDNN, Teacher forcing, Tempering", 
+      "Biased importance sampling", 
+      "Mixing (Markov chain)"
+    ], 
+    "level": 2, 
+    "startpage": 606, 
+    "topicname": "Chapter 17 - Monte Carlo Methods"
+  }, 
+  {
+    "endpage": 607, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 606, 
+    "topicname": "17.1 Sampling and Monte Carlo Methods"
+  }, 
+  {
+    "endpage": 606, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 606, 
+    "topicname": "17.1.1 Why Sampling?"
+  }, 
+  {
+    "endpage": 607, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 607, 
+    "topicname": "17.1.2 Basics of Monte Carlo Sampling"
+  }, 
+  {
+    "endpage": 610, 
+    "keywordlist": [
+      "Biased importance sampling"
+    ], 
+    "level": 3, 
+    "startpage": 608, 
+    "topicname": "17.2 Importance Sampling"
+  }, 
+  {
+    "endpage": 614, 
+    "keywordlist": [
+      "Markov chain Monte Carlo", 
+      "Burn-in", 
+      "Markov chain"
+    ], 
+    "level": 3, 
+    "startpage": 611, 
+    "topicname": "17.3 Markov Chain Monte Carlo Methods"
+  }, 
+  {
+    "endpage": 615, 
+    "keywordlist": [
+      "Block Gibbs sampling"
+    ], 
+    "level": 3, 
+    "startpage": 615, 
+    "topicname": "17.4 Gibbs Sampling"
+  }, 
+  {
+    "endpage": 620, 
+    "keywordlist": [
+      "Block Gibbs sampling", 
+      "Critical temperature", 
+      "TDNN, Teacher forcing, Tempering", 
+      "Mixing (Markov chain)"
+    ], 
+    "level": 3, 
+    "startpage": 615, 
+    "topicname": "17.5 The Challenge of Mixing between Separated Modes"
+  }, 
+  {
+    "endpage": 618, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 618, 
+    "topicname": "17.5.1 Tempering to Mix between Modes"
+  }, 
+  {
+    "endpage": 620, 
+    "keywordlist": [
+      "Critical temperature", 
+      "TDNN, Teacher forcing, Tempering"
+    ], 
+    "level": 4, 
+    "startpage": 619, 
+    "topicname": "17.5.2 Depth May Help Mixing"
+  }, 
+  {
+    "endpage": 646, 
+    "keywordlist": [
+      "Noise-contrastive estimation", 
+      "Ratio matching", 
+      "Product rule of probability, of probability PSD, Pseudolikelihood", 
+      "FPCD", 
+      "Deep feedforward network, Deep learning, Denoising autoencoder, Denoising score matching"
+    ], 
+    "level": 2, 
+    "startpage": 621, 
+    "topicname": "Chapter 18 - Confronting the Partition Function"
+  }, 
+  {
+    "endpage": 622, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 622, 
+    "topicname": "18.1 The Log-Likelihood Gradient"
+  }, 
+  {
+    "endpage": 630, 
+    "keywordlist": [
+      "FPCD"
+    ], 
+    "level": 3, 
+    "startpage": 623, 
+    "topicname": "18.2 Stochastic Maximum Likelihood and Contrastive Divergence"
+  }, 
+  {
+    "endpage": 632, 
+    "keywordlist": [
+      "Product rule of probability, of probability PSD, Pseudolikelihood"
+    ], 
+    "level": 3, 
+    "startpage": 631, 
+    "topicname": "18.3 Pseudolikelihood"
+  }, 
+  {
+    "endpage": 634, 
+    "keywordlist": [
+      "Ratio matching"
+    ], 
+    "level": 3, 
+    "startpage": 633, 
+    "topicname": "18.4 Score Matching and Ratio Matching"
+  }, 
+  {
+    "endpage": 635, 
+    "keywordlist": [
+      "Deep feedforward network, Deep learning, Denoising autoencoder, Denoising score matching"
+    ], 
+    "level": 3, 
+    "startpage": 635, 
+    "topicname": "18.5 Denoising Score Matching"
+  }, 
+  {
+    "endpage": 638, 
+    "keywordlist": [
+      "Noise-contrastive estimation"
+    ], 
+    "level": 3, 
+    "startpage": 636, 
+    "topicname": "18.6 Noise-Contrastive Estimation"
+  }, 
+  {
+    "endpage": 646, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 639, 
+    "topicname": "18.7 Estimating the Partition Function"
+  }, 
+  {
+    "endpage": 643, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 641, 
+    "topicname": "18.7.1 Annealed Importance Sampling"
+  }, 
+  {
+    "endpage": 646, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 644, 
+    "topicname": "18.7.2 Bridge Sampling"
+  }, 
+  {
+    "endpage": 669, 
+    "keywordlist": [
+      "LSTM, M-step", 
+      "Maxout, MCMC, Mean \ufb01eld,", 
+      "Functional derivatives", 
+      "Euler-Lagrange equation", 
+      "Dropout, Dynamic structure, E-step", 
+      "Expectation maximization"
+    ], 
+    "level": 2, 
+    "startpage": 647, 
+    "topicname": "Chapter 19 - Approximate Inference"
+  }, 
+  {
+    "endpage": 649, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 649, 
+    "topicname": "19.1 Inference as Optimization"
+  }, 
+  {
+    "endpage": 650, 
+    "keywordlist": [
+      "LSTM, M-step", 
+      "Dropout, Dynamic structure, E-step", 
+      "Expectation maximization"
+    ], 
+    "level": 3, 
+    "startpage": 650, 
+    "topicname": "19.2 Expectation Maximization"
+  }, 
+  {
+    "endpage": 653, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 651, 
+    "topicname": "19.3 MAP Inference and Sparse Coding"
+  }, 
+  {
+    "endpage": 666, 
+    "keywordlist": [
+      "Maxout, MCMC, Mean \ufb01eld,", 
+      "Functional derivatives", 
+      "Euler-Lagrange equation"
+    ], 
+    "level": 3, 
+    "startpage": 654, 
+    "topicname": "19.4 Variational Inference and Learning"
+  }, 
+  {
+    "endpage": 660, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 655, 
+    "topicname": "19.4.1 Discrete Latent Variables"
+  }, 
+  {
+    "endpage": 663, 
+    "keywordlist": [
+      "Functional derivatives", 
+      "Euler-Lagrange equation"
+    ], 
+    "level": 4, 
+    "startpage": 661, 
+    "topicname": "19.4.2 Calculus of Variations"
+  }, 
+  {
+    "endpage": 665, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 664, 
+    "topicname": "19.4.3 Continuous Latent Variables"
+  }, 
+  {
+    "endpage": 666, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 666, 
+    "topicname": "19.4.4 Interactions between Learning and Inference"
+  }, 
+  {
+    "endpage": 669, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 667, 
+    "topicname": "19.5 Learned Approximate Inference"
+  }, 
+  {
+    "endpage": 667, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 667, 
+    "topicname": "19.5.1 Wake-Sleep"
+  }, 
+  {
+    "endpage": 669, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 668, 
+    "topicname": "19.5.2 Other Forms of Learned Inference"
+  }, 
+  {
+    "endpage": 736, 
+    "keywordlist": [
+      "recognition chine", 
+      "Lagrange multipliers, Lagrangian, LAPGAN", 
+      "Discriminative \ufb01ne-tuning, Discriminative RBM", 
+      "ANN, Annealed importance sampling, Approximate Bayesian computation", 
+      "RNN-RBM", 
+      "NADE", 
+      "Multi-prediction DBM", 
+      "Generative adversarial networks, Generative moment matching networks", 
+      "Moment matching", 
+      "Categorical distribution, CD, Centering trick (DBM)", 
+      "REINFORCE", 
+      "Probabilistic max pooling", 
+      "\ufb01ne-tuning Discriminative RBM", 
+      "Importance sampling, Importance weighted autoencoder", 
+      "Conditional RBM", 
+      "Reparametrization trick", 
+      "Fully-visible Bayes network", 
+      "Generator network"
+    ], 
+    "level": 2, 
+    "startpage": 670, 
+    "topicname": "Chapter 20 - Deep Generative Models"
+  }, 
+  {
+    "endpage": 671, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 670, 
+    "topicname": "20.1 Boltzmann Machines"
+  }, 
+  {
+    "endpage": 675, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 672, 
+    "topicname": "20.2 Restricted Boltzmann Machines"
+  }, 
+  {
+    "endpage": 674, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 674, 
+    "topicname": "20.2.1 Conditional Distributions"
+  }, 
+  {
+    "endpage": 675, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 675, 
+    "topicname": "20.2.2 Training Restricted Boltzmann Machines"
+  }, 
+  {
+    "endpage": 678, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 676, 
+    "topicname": "20.3 Deep Belief Networks"
+  }, 
+  {
+    "endpage": 691, 
+    "keywordlist": [
+      "Multi-prediction DBM", 
+      "Categorical distribution, CD, Centering trick (DBM)"
+    ], 
+    "level": 3, 
+    "startpage": 679, 
+    "topicname": "20.4 Deep Boltzmann Machines"
+  }, 
+  {
+    "endpage": 681, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 681, 
+    "topicname": "20.4.1 Interesting Properties"
+  }, 
+  {
+    "endpage": 683, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 682, 
+    "topicname": "20.4.2 DBM Mean Field Inference"
+  }, 
+  {
+    "endpage": 684, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 684, 
+    "topicname": "20.4.3 DBM Parameter Learning"
+  }, 
+  {
+    "endpage": 686, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 685, 
+    "topicname": "20.4.4 Layer-Wise Pretraining"
+  }, 
+  {
+    "endpage": 691, 
+    "keywordlist": [
+      "Multi-prediction DBM", 
+      "Categorical distribution, CD, Centering trick (DBM)"
+    ], 
+    "level": 4, 
+    "startpage": 687, 
+    "topicname": "20.4.5 Jointly Training Deep Boltzmann Machines"
+  }, 
+  {
+    "endpage": 698, 
+    "keywordlist": [
+      "recognition chine"
+    ], 
+    "level": 3, 
+    "startpage": 692, 
+    "topicname": "20.5 Boltzmann Machines for Real-Valued Data"
+  }, 
+  {
+    "endpage": 693, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 692, 
+    "topicname": "20.5.1 Gaussian-Bernoulli RBMs"
+  }, 
+  {
+    "endpage": 698, 
+    "keywordlist": [
+      "recognition chine"
+    ], 
+    "level": 4, 
+    "startpage": 694, 
+    "topicname": "20.5.2 Undirected Models of Conditional Covariance"
+  }, 
+  {
+    "endpage": 700, 
+    "keywordlist": [
+      "Probabilistic max pooling"
+    ], 
+    "level": 3, 
+    "startpage": 699, 
+    "topicname": "20.6 Convolutional Boltzmann Machines"
+  }, 
+  {
+    "endpage": 701, 
+    "keywordlist": [
+      "RNN-RBM", 
+      "Conditional RBM"
+    ], 
+    "level": 3, 
+    "startpage": 701, 
+    "topicname": "20.7 Boltzmann Machines for Structured or Sequential Outputs"
+  }, 
+  {
+    "endpage": 702, 
+    "keywordlist": [
+      "Discriminative \ufb01ne-tuning, Discriminative RBM", 
+      "\ufb01ne-tuning Discriminative RBM"
+    ], 
+    "level": 3, 
+    "startpage": 702, 
+    "topicname": "20.8 Other Boltzmann Machines"
+  }, 
+  {
+    "endpage": 707, 
+    "keywordlist": [
+      "REINFORCE", 
+      "Reparametrization trick"
+    ], 
+    "level": 3, 
+    "startpage": 703, 
+    "topicname": "20.9 Back-Propagation through Random Operations"
+  }, 
+  {
+    "endpage": 707, 
+    "keywordlist": [
+      "REINFORCE"
+    ], 
+    "level": 4, 
+    "startpage": 705, 
+    "topicname": "20.9.1 Back-Propagating through Discrete Stochastic Operations"
+  }, 
+  {
+    "endpage": 725, 
+    "keywordlist": [
+      "Lagrange multipliers, Lagrangian, LAPGAN", 
+      "NADE", 
+      "Generative adversarial networks, Generative moment matching networks", 
+      "Moment matching", 
+      "Importance sampling, Importance weighted autoencoder", 
+      "Fully-visible Bayes network", 
+      "Generator network"
+    ], 
+    "level": 3, 
+    "startpage": 708, 
+    "topicname": "20.10 Directed Generative Nets"
+  }, 
+  {
+    "endpage": 708, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 708, 
+    "topicname": "20.10.1 Sigmoid Belief Nets"
+  }, 
+  {
+    "endpage": 711, 
+    "keywordlist": [
+      "Generator network"
+    ], 
+    "level": 4, 
+    "startpage": 709, 
+    "topicname": "20.10.2 Differentiable Generator Nets"
+  }, 
+  {
+    "endpage": 715, 
+    "keywordlist": [
+      "Importance sampling, Importance weighted autoencoder"
+    ], 
+    "level": 4, 
+    "startpage": 712, 
+    "topicname": "20.10.3 Variational Autoencoders"
+  }, 
+  {
+    "endpage": 718, 
+    "keywordlist": [
+      "Lagrange multipliers, Lagrangian, LAPGAN"
+    ], 
+    "level": 4, 
+    "startpage": 716, 
+    "topicname": "20.10.4 Generative Adversarial Networks"
+  }, 
+  {
+    "endpage": 719, 
+    "keywordlist": [
+      "Generative adversarial networks, Generative moment matching networks", 
+      "Moment matching"
+    ], 
+    "level": 4, 
+    "startpage": 719, 
+    "topicname": "20.10.5 Generative Moment Matching Networks"
+  }, 
+  {
+    "endpage": 720, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 720, 
+    "topicname": "20.10.6 Convolutional Generative Networks"
+  }, 
+  {
+    "endpage": 721, 
+    "keywordlist": [
+      "Fully-visible Bayes network"
+    ], 
+    "level": 4, 
+    "startpage": 721, 
+    "topicname": "20.10.7 Auto-Regressive Networks"
+  }, 
+  {
+    "endpage": 722, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 722, 
+    "topicname": "20.10.8 Linear Auto-Regressive Networks"
+  }, 
+  {
+    "endpage": 723, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 723, 
+    "topicname": "20.10.9 Neural Auto-Regressive Networks"
+  }, 
+  {
+    "endpage": 725, 
+    "keywordlist": [
+      "NADE"
+    ], 
+    "level": 4, 
+    "startpage": 724, 
+    "topicname": "20.10.10 NADE"
+  }, 
+  {
+    "endpage": 729, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 726, 
+    "topicname": "20.11 Drawing Samples from Autoencoders"
+  }, 
+  {
+    "endpage": 727, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 727, 
+    "topicname": "20.11.1 Markov Chain Associated with any Denoising Autoencoder"
+  }, 
+  {
+    "endpage": 728, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 727, 
+    "topicname": "20.11.2 Clamping and Conditional Sampling"
+  }, 
+  {
+    "endpage": 729, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 729, 
+    "topicname": "20.11.3 Walk-Back Training Procedure"
+  }, 
+  {
+    "endpage": 730, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 730, 
+    "topicname": "20.12 Generative Stochastic Networks"
+  }, 
+  {
+    "endpage": 731, 
+    "keywordlist": [], 
+    "level": 4, 
+    "startpage": 731, 
+    "topicname": "20.12.1 Discriminant GSNs"
+  }, 
+  {
+    "endpage": 732, 
+    "keywordlist": [
+      "ANN, Annealed importance sampling, Approximate Bayesian computation"
+    ], 
+    "level": 3, 
+    "startpage": 731, 
+    "topicname": "20.13 Other Generation Schemes"
+  }, 
+  {
+    "endpage": 734, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 733, 
+    "topicname": "20.14 Evaluating Generative Models"
+  }, 
+  {
+    "endpage": 736, 
+    "keywordlist": [], 
+    "level": 3, 
+    "startpage": 735, 
+    "topicname": "20.15 Conclusion"
+  }, 
+  {
+    "endpage": 793, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 737, 
+    "topicname": "Bibliography"
+  }, 
+  {
+    "endpage": 801, 
+    "keywordlist": [], 
+    "level": 1, 
+    "startpage": 794, 
+    "topicname": "Index"
+  }
+]
+
